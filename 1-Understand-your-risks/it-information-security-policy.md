@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Purpose
 
 This policy sets out RSWT's approach to managing its information security objectives (see below). It addresses the governance and operation of IT security and sits above the Staff Information Security policy, which addresses staff conduct.

@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Implement appropriate mitigations
 # Step 7. Identity and access management
 

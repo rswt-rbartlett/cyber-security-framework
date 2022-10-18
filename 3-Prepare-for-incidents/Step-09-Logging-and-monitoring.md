@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Prepare for incidents
 # Step 9. Logging and monitoring
 Logging and monitoring logs makes it far more like you (or your IT provider) will detect an attack in process and be able to stop it.  Even if the attack is successful logs are vital during and after a security incident to understand how the attacker gained access, so that vulnerability can be address and further compromise prevented.  The short version of this is logging is not expensive, but monitoring logs is (as it involves someone or something looking at them and making decisions).  That may mean for some Trusts log monitoring would involve disproportionate expense, but all Trusts should be logging the right events.

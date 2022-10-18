@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Prepare for incidents
 # Step 10. Incident management
 Unfortunately it is almost inevitable that you will experience some sort of security incident at some point.  The scale of the incident will range from one compromised user account or one infected laptop all the way up to a ransomware attack which compromises most of your systems.  How you respond to security incidents can significantly reduce the duration and extent of a breach.  To support Trusts in responding effectively to incidents, below are some useful resources.

@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Block attachments to prevent ransomware infection
 
 **Tl;dr blocking the file extensions used by cyber-criminals is a simple way to avoid ransomware attacks**

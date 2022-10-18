@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Ransomware - it could be you
 **Tl;dr Ransomware is a direct threat to all Wildlife Trusts**
 

@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # IN AN EMERGENCY (MEDIUM OR HIGH IMPACT INCIDENT)
 ![Process to follow in an emergency](./media/in-an-emergency.png)
 

@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Structured Level 
 
 Below are the requirements (25) for Trusts which use a small number of cloud services and have no on-premises infrastructure.  These build on the Foundations requirements and add those appropriate to a Trust with more resources and a slightly more complex environment.  Again these require no significant financial investment, and the investment in time should be proportionate to the size of the Trust.  To allow Trusts to see the relative priority of these requirements those from the Foundations level (which are often pre-requisite steps) are marked with a +.

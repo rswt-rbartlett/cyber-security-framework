@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Understand your risks
 # Step 4. Supply chain security
 

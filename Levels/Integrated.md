@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Integrated Level 
 
 Below are the requirements (37) for Trusts with significant on-premises infrastructure and their own internal IT staff. Some of these will require a little more financial investment or take more staff time to implement.  However the investment should be proportionate to the size of the Trust.  To allow Trusts to see the relative priority of these requirements those from the Foundations level are marked + and those from the Structured level are marked with a ++.

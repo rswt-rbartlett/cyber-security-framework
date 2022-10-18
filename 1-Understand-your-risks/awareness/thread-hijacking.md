@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Thread hijacking
 Thread hijacking is a growing threat, it's proving a very effective method for attackers, and you should make sure you have effective defences against that, and that your colleagues know what to look for and what to do.
 
