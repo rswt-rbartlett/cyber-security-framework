@@ -1,4 +1,4 @@
-![The Wildlife Trusts logo](/Levels/twt-logo.png)
+<img src="/Levels/twt-logo.png" height="20">
 
 # cyber-security-framework
 A Cyber Security Framework for the Wildlife Trusts
