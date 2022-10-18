@@ -1,4 +1,4 @@
-<img src="/Levels/twt-logo.png" height="20">
+<img src="/Levels/twt-logo.png" height="100">
 
 # cyber-security-framework
 A Cyber Security Framework for the Wildlife Trusts
