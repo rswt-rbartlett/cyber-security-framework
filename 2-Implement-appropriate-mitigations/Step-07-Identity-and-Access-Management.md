@@ -43,7 +43,7 @@ Password security is best achieved by a combination of:
 	- [Azure Active Directory Password Protection](https://learn.microsoft.com/en-gb/azure/active-directory/authentication/concept-password-ban-bad)
 	- [Active Directory Account Lockout](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc737614(v=ws.10)#configuring-account-lockout-for-local-users)
 
-## Implement Multi-Factor Authentication for all remote access
+## Implement Multi-Factor Authentication (MFA) for all remote access
 Due to the ease with which account passwords can be guessed, stolen, intercepted or revealed in data breaches they are no longer an effective or appropriate control on their own, especially for sensitive data including personally identifiable information.  Therefore username and password should be supplemented by an additional factor in order to secure your identities, systems and data.
 > If a system can be accessed from the internet (including cloud services like Outlook 365 or Gmail and services published from your network like VPN or Remote Desktop Gateway) you should require Multi-Factor Authentication (also known as '2-Step Verification') to access it.  This should be considered a **baseline minimum security requirement for all Trusts**.
 
