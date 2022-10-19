@@ -12,7 +12,7 @@ At a minimum the following events should be logged on all systems you are respon
 	- Your servers and other infrastructure (firewall, router, network equipment)
 	- Any other applications which do not use Single Sign-on with your directory (e.g. systems or applications with their own accounts)
 - User administration actions (creating, modifying and deleting users, resetting passwords, changing permissions)
-- DNS resolution
+- Domain Name Service (DNS) resolution
 - Outbound connections from your laptops, computers and servers (logged at your network firewall or on your devices)
 - Emails sent and received
 - Changes to endpoint protection (e.g. disabling endpoint protection or whitelisting applications or directories)
@@ -27,10 +27,10 @@ As this is a technically complex area which changes frequently below are some op
 ## Collect and protect logs
 Having captured important security events in logs on your computers, servers and applications you need to protect them.  If an attacker gained access to your systems destroying evidence of their activity will be high on their priority list.  The logs are vulnerable in their original location, so whenever possible you should forward, send or in some other way copy the logs to another system which is well protected.  Once the logs are all held in one place you can also query them all at once, which makes Incident Response much quicker and easier.
 
-There are many products on the market which claim to fulfil this requirement, but unfortunately many of those require that the devices you are collecting logs from are on your internal (office) network, or have a VPN connection open.  In a hybrid working this is frequently not the case and therefore many of these systems are no longer fit for purpose.  Below are two options for log aggregation, one free and one paid.
+There are many products on the market which claim to fulfil this requirement, but unfortunately many of those require that the devices you are collecting logs from are on your internal (office) network, or have a Virtual Private Network (VPN) connection open.  In a hybrid working this is frequently not the case and therefore many of these systems are no longer fit for purpose.  Below are two options for log aggregation, one free and one paid.
 
-### NCSC Logging Made Easy (the free option)
-The National Cyber Security Centre has published a guide and configuration files to build a log aggregation tool based on free and open source software.  It is non-trivial to configure and would require a skilled IT person to setup, and would also require sufficient computing resource to store and process the logs.  It is however free of any up front capital or ongoing subscription cost, and is highly effective.  You can find the guide to setting this up on [Github](https://github.com/ukncsc/lme).
+### National Cyber Security Centre (NCSC) Logging Made Easy (the free option)
+The NCSC has published a guide and configuration files to build a log aggregation tool based on free and open source software.  It is non-trivial to configure and would require a skilled IT person to setup, and would also require sufficient computing resource to store and process the logs.  It is however free of any up front capital or ongoing subscription cost, and is highly effective.  You can find the guide to setting this up on [Github](https://github.com/ukncsc/lme).
 
 ### Azure Sentinel (the paid option)
 This option is available to any Trust who has a Microsoft 365 or Azure subscription.  Details are at https://azure.microsoft.com/en-gb/products/microsoft-sentinel/, and you should approach your Cloud Solution Provider for pricing.
