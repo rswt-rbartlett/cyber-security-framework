@@ -17,21 +17,21 @@ The security of systems is largely a product of how they are configured (not som
   - Do not allow staff administrative access, or if they **must** have administrative access give them a separate account for that purpose and have them use a normal account for day to day activities.
   - Set a unique strong password on any accounts with administrative privileges (do not set the same Administrator passwords for all your PCs and laptops)
   - Disable remote access and only turn it on when needed, and disable it afterwards.
-  - [Log](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.2#enabling-script-block-logging) and if not already set (this is the default for Windows clients) [restrict](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2#restricted) access to PowerShell (commonly used by ransomware groups)
-  - Restrict access to other executables commonly used by attackers (e.g. the [Microsoft recommended block rules](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules))
+  - [Log,](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.2#enabling-script-block-logging) and if not already set (this is the default for Windows clients) [restrict](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2#restricted) access to PowerShell (PowerShell is commonly used by ransomware groups).
+  - Restrict access to other executables commonly used by attackers (e.g. the [Microsoft recommended block rules](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)).
 - For any publically accessible system where you are responsible for the platform/operating system (e.g. a router or firewall at your office or a web server you maintain) technically qualified staff should take the following approach:
   - Ensure only the services you need are accessible by stopping or disabling the services you don't need (e.g. mail or file transfer services) or blocking them using a firewall
   - Disable or change the password for any default accounts, especially for which passwords are publically documented (e.g. in vendor manuals on the internet).
-  - Restrict access to any management interface (e.g. the management port for you office router) either by using access lists to restrict access to specific IP addresses, or disabling public access completely which would require the administrator to be in the office or connected via VPN before they can manage the system.
+  - Restrict access to any management interface (e.g. the management port for you office router) either by using access lists to restrict access to specific IP addresses, or disabling public access completely which would require the administrator to be in the office or connected via a Virtual Private Network (VPN) before they can manage the system.
 
 ## Make it harder to spoof your email domain
 
 Attackers will try and trick user by changing the FROM: address in an email to match your email domain.  This is called 'spoofing'.  To make this harder deploy the following technologies on your mail service:
-- DMARC (this tells a receiving mail server if your domain is protected by SPF and/or DKIM, and what to do if the message doesn't pass those checks). 
+- DMARC (this tells a receiving mail server if your domain is protected by Sender Policy Framework (SPF) and/or DomainKeys Identified Mail (DKIM), and what to do if the message doesn't pass those checks). 
 - SPF (checks that a mail claiming to come from a specific domain comes from an approved IP address for that domain)
 - DKIM (checks that a mail claiming to come from a specific domain has a valid digital signature for that domain) 
 
-The NCSC has put together a [guide for IT managers and systems administrators](https://www.ncsc.gov.uk/collection/email-security-and-anti-spoofing) which takes you through the steps to set this up.
+The National Cyber Security Centre has put together a [guide for IT managers and systems administrators](https://www.ncsc.gov.uk/collection/email-security-and-anti-spoofing) which takes you through the steps to set this up.
 
 Below are links to the vendor guides for setting up DMARC, SPF and DKIM
 - [Microsoft Exchange Online](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/use-dmarc-to-validate-email?view=o365-worldwide)
