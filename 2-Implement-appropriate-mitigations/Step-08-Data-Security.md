@@ -4,12 +4,12 @@
 # Step 8. Data security
 
 ## Know what you're protecting
-The first step in protecting your data is knowing what data you have, and where it is.  You should already have a record all your personal data in your [Information Asset Register](https://ico.org.uk/for-organisations/accountability-framework/records-management-and-security/#Register) (as part of GDPR compliance). To that you need to add your financial, legal and other sensitive or valuable information.  There is no reason why you should not add those non-personal information assets to your register, which means all the information is in one place.  Follow the GPDR principles of data minimisation, the more data you have the more work you have to do to secure it.
+The first step in protecting your data is knowing what data you have, and where it is.  You should already have a record all your personal data in your [Information Asset Register](https://ico.org.uk/for-organisations/accountability-framework/records-management-and-security/#Register) as part of compliance with the UK General Data Protection Regulation (GDPR). To that you need to add your financial, legal and other sensitive or valuable information.  There is no reason why you should not add those non-personal information assets to your register, which means all the information is in one place.  Follow the GPDR principles of data minimisation, the more data you have the more work you have to do to secure it.
 
 ## Protect data with encryption
 Data should be protected with encryption to prevent unauthorised access or modification in transit (for example when uploading a file to a cloud service) and at rest (when saved on a cloud service, server or your laptop).  If you store data unencrypted and suffer a security breach the Information Commissioners Office is far more likely to levy a fine.  If you encrypt data at rest if someone gains access to the encrypted data it will be impossible to read, and no personal data will be leaked.
 
-> **Note**: All encryption should meet the current FIPS 140[^1] standard at the time of reading.  This standard (currently FIPS 140-2 and 140-3 are both valid) is recognised internationally and there is no UK equivalent which supercedes it.
+> **Note**: All encryption should meet the current US Federal Information Processing Standards (FIPS) 140[^1] standard at the time of reading.  This standard (currently FIPS 140-2 and 140-3 are both valid) is recognised internationally and there is no UK equivalent which supercedes it.
 
 ### Encryption in transit
 Ensure your servers (if you have any) and cloud services (including Microsoft 365, Google and other web services) protect data in transit using modern encryption technology ('modern' meaning currently in active development and supported by a vendor or community).
