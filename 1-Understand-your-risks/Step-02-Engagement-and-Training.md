@@ -36,7 +36,7 @@ If you have a set of existing staff policies and need to refresh or replace your
 Whilst technical controls do the bulk of the work, Trust staff are a key defense, and training is a vital part of maintaining that defense.
 All staff should be given cyber security training during their probation, and ideally regularly after that, depending on their role and the level of access they have to personal or strictly confidential information.
 
-You may already have a package of training courses which includes a cyber security awareness course, if not below are two free courses which have been evaluated and assessed as suitable.  The NCSC course can also be modified to fit your purposes and hosted on your own Learning Management System (LMS).
+You may already have a package of training courses which includes a cyber security awareness course, if not below are two free courses which have been evaluated and assessed as suitable.  The National Cyber Security Centre (NCSC) course can also be modified to fit your purposes and hosted on your own Learning Management System (LMS).
 
 - [NCSC Top Tips for Staff](https://www.ncsc.gov.uk/training/top-tips-for-staff-scorm-v2/scormcontent/index.html#/)
 - [Amazon Cyber Security Awareness training](https://learnsecurity.amazon.com/en/index.html)
