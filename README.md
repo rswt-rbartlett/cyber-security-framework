@@ -4,7 +4,7 @@
 A Cyber Security Framework for the Wildlife Trusts
 
 # Introduction
-This framework provides the Wildlife Trust movement with actionable information based around the NCSC '10 Steps to Cyber Security' to enable Trusts to managed cyber security risk.  It includes guidance, template policies, procedures and supporting documents, technical solutions, training and awareness material and links to free resources from third parties.
+This framework provides the Wildlife Trust movement with actionable information based around the National Cyber Security Centre (NCSC) '10 Steps to Cyber Security' to enable Trusts to managed cyber security risk.  It includes guidance, template policies, procedures and supporting documents, technical solutions, training and awareness material and links to free resources from third parties.
 
 The structure follows the '10 Steps' structure, which breaks down all the controls into three areas;
 1. Understand your risks
@@ -14,7 +14,7 @@ The structure follows the '10 Steps' structure, which breaks down all the contro
 This simple approach should allow any Trust to identify their risks and manage them effectively.  The 'prepare for incidents' section is important because incidents are inevitable, and the most important thing is to be ready for them, and bounce back as quickly as possible.
 
 # Approach
-To allow Trusts of all sizes to easily engage with this framework the recommendations are broken down into three maturity levels.  This embeds a level of proportionality, and no Trust should find these recommendations unduly onerous. This approach reflects the requirement under UK GDPR to implement **appropriate** technical and organisational measures, including taking into account the cost of implementation.
+To allow Trusts of all sizes to easily engage with this framework the recommendations are broken down into three maturity levels.  This embeds a level of proportionality, and no Trust should find these recommendations unduly onerous. This approach reflects the requirement under UK General Data Protection Regulation (GDPR) to implement **appropriate** technical and organisational measures, including taking into account the cost of implementation.
 
 > Whilst the three maturity levels equate approximately with Small, Medium and Large Trusts this is not a hard and fast rule. 
 
