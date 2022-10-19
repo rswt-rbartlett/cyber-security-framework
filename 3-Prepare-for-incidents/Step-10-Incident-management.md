@@ -27,7 +27,7 @@ All of this detail could go into any existing Business Continuity Plan you have,
 
 As part of your plan you should have post-incident review, where you consider whether there is anything to learn from either the incident or your response to it, so you identify any improvements and implement those.
 
-To help you create your process a template based on the RSWT Incident Response Process is [here](/cyber-incident-response-process.md).
+To help you create your process a template based on the RSWT Incident Response Process is [here](./cyber-incident-response-process.md).
 
 > **IMPORTANT: You should keep an up to date copy of your incident response plan somewhere safe which is not dependent on your IT systems.  For example paper copies at the homes of those staff who are in the wider Incident Response Team, and a copy held in your IT provider's environment.**
 
