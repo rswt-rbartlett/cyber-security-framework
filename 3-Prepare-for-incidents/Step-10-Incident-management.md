@@ -19,7 +19,7 @@ All Trusts should have an incident response plan, not necessarily a technical pl
 	7. IT and/or third party IT provider, and 
 	8. Your Insurer.
 3. How will you communicate with all of those above even if your IT systems are offline?
-4. Who else should you consider communicating with during an incident (e.g. people whose data is affected, other Trusts who might be at risk, suppliers, funders, regulatory bodies like the ICO or law enforcement).
+4. Who else should you consider communicating with during an incident (e.g. people whose data is affected, other Trusts who might be at risk, suppliers, funders, regulatory bodies like the Information Commissioner's Office or law enforcement).
 5. How will you escalate an incident if it becomes serious?
 6. What other support might you need to invoke (e.g. a Technical Incident Response provider, which if you have Cyber Insurance may be part of your cover package)?
 
