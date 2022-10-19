@@ -8,7 +8,7 @@ Cyber risks are just one of many risks any Trust will face.  You will already ha
 
 ## Scope
 To understanding the scope of your cyber risk follow the steps below.
-- Make a list of the systems, services or technology you use for HR, Finance, Payroll, CRM, GIS and Land/field/forest management.  This tells you where your key information assets are, which most need protecting.
+- Make a list of the systems, services or technology you use for HR, Finance, Payroll, Customer Relationship Management (CRM), Geographic Information System (GIS) and Land/field/forest management.  This tells you where your key information assets are, which most need protecting.
 - Include third party services and suppliers in that list. You're not responsible for the technical security of those services but you do still have a responsibility[^1] for your information, your staff who use the services and the devices they use to do so.
 - Add the systems or services you use for email, collaboration, file storage, email marketing, digital fundraising, event management, data visualisation and analysis, web hosting and server hosting.  These are services you depend on to run your Trust and contain data you need to protect.
 
@@ -21,7 +21,7 @@ To help you get started, below is a list of risks, their consequences and known 
 
 | Risk | Description | Consequences | Mitigation options |
 | ---- | ----------- | ------------ | ------------------ |
-| Ransomware | All on-premises and cloud data is encrypted in a ransomware attack | Widespread loss of IT services, reputational damage, financial impact including recovery costs and regulatory penalties | Require MFA for all remote access |
+| Ransomware | All on-premises and cloud data is encrypted in a ransomware attack | Widespread loss of IT services, reputational damage, financial impact including recovery costs and regulatory penalties | Require Multi-Factor Authentication (MFA) for all remote access |
 | Cyber Extortion | An attacker threatens to release data stolen from a Trust system on a public website unless a payment is made | Reputational damage, financial impact including forensic investigation costs and potential regulatory penalties. | Require MFA for all remote access|
 | Business Email Compromise | A member of staff is tricked into authorising a transfer of funds into a criminals account. | Reputational damage, financial impact including unauthorised redirection of funds and forensic investigation costs. | Implement MFA for financial systems and dual release controls for money transfers. |
 | Disclosure from unencrypted portable device | An unencrypted Trust or personal laptop tablet or phone is lost or stolen leading to the disclosure of PII or strictly confidential information. | Reputational damage, financial impact including potential regulatory penalties. | Employ the free encryption available on all Windows, Mac OS, iOS and Android devices. |
