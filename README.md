@@ -7,7 +7,7 @@ A Cyber Security Framework for the Wildlife Trusts
 This framework provides the Wildlife Trust movement with actionable information based around the National Cyber Security Centre (NCSC) '10 Steps to Cyber Security' to enable Trusts to managed cyber security risk.  It includes guidance, template policies, procedures and supporting documents, technical solutions, training and awareness material and links to free resources from third parties.
 
 The structure follows the '10 Steps' structure, which breaks down all the controls into three areas;
-1. Understand your risks
+1. Understand risk
 2. Implement appropriate mitigations
 3. Prepare for incidents
 
