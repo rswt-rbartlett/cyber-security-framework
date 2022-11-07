@@ -8,7 +8,7 @@ The National Cyber Security Centre (NCSC, part of GCHQ) has warned[^1] of a rise
 # Real world example
 We have seen an example of this recently where an email was sent, purporting to be from our Chief Executive to a senior manager
 
-![Screenshot of a business email compromise attempt](https://github.com/rgbartlett/cyber-security-framework/blob/main/awareness/business-email-compromise.png)
+![Screenshot of a business email compromise attempt](./business-email-compromise.png)
 
 In this case the senior manager recognised this was not from who it claimed to be from (as the email address was a generic gmail.com address) and there was no compromise.  However, had they been engaged they could have been tricked into making some kind of payment or inadvertently allowing the attacker access to sensitive information.
  
