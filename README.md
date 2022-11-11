@@ -45,6 +45,7 @@ All Trusts regardless of size will benefit from improving the maturity of their 
 - [Step 5. Architecture and configuration](2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md)
     -   [Reduce attack surface](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#reduce-attack-surface)
     -   [Make it harder to spoof your email domain](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#make-it-harder-to-spoof-your-email-domain)
+	-	[Implement additional phishing protection](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#implement-additional-phishing-protection)
     -   [Install effective endpoint protection](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#install-effective-endpoint-protection)
     -   [Whitelist applications](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#whitelist-applications)
 - [Step 6. Vulnerability management](/2-Implement-appropriate-mitigations/Step-06-Vulnerability-Management.md)
