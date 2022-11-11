@@ -38,12 +38,14 @@ Below are links to the vendor guides for setting up DMARC, SPF and DKIM
 - [Google Workspace](https://support.google.com/a/answer/2466580?hl=en)
 > **Note** There is no out of the box support for DMARC in Microsoft Exchange Server, and I strongly recommend moving to Microsoft 365 Exchange Online.
 
-In addition in Exchange Online you can implement specific anti-phishing controls, I would recommend either:
+## Implement additional phishing protection
+
+In addition to DMARC you should also implement specific anti-phishing controls in Exchange Online, I would recommend either:
 - Implementing the 'Standard Protection' at https://security.microsoft.com/presetSecurityPolicies
 	OR
 - Implementing the following anti-phishing controls at https://security.microsoft.com/antiphishing
 	- **Phishing threshold & protection**
-	- Set Phishing email threshold to 3 (wind back to 2 if you get too many false positives)
+	- Set Phishing email threshold to 3 (turn down to 2 if you get too many false positives)
 	- Enable impersonation protection for all staff listed in your website (particularly Executives)
 	- Enable impersonation protection for all domains
 	- Enable mailbox intelligence
@@ -55,6 +57,8 @@ In addition in Exchange Online you can implement specific anti-phishing controls
 	- If Mailbox Intelligence detects an impersonated user Quarantine the message
 	- If message is detected as spoof Quarantine the message
 	- Turn on all the Safety tips & indicators
+
+You should either monitor Quarantine and release 'false positive' (genuine messages blocked in error) yourself, or allow staff to release their own messages. What staff are allowed to release themselves is defined in the [Quarantine Policies](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/quarantine-policies?view=o365-worldwide).
 
 ## Install effective endpoint protection
 
