@@ -33,8 +33,9 @@ Whilst that might look scary, effective defence is clearly possible as two-third
 ## Other threats
 
 Other threats include phishing, which is often a prelude to ransomware but can also lead to the theft of personal data and extortion to prevent its release.  Hacking of social media accounts to financially extort victims for access to their accounts is also on the rise.
-Recommendation: Follow the guidance in the Cyber Security Framework to implement MFA and additional phishing protections, check that all social media accounts have MFA enabled wherever possible, and that those with access to Trust social media accounts are aware of the risks of phishing and malware. 
+
+**Recommendation**: Follow the guidance in the Cyber Security Framework to [implement MFA](https://github.com/rswt-rbartlett/cyber-security-framework/blob/main/2-Implement-appropriate-mitigations/Step-07-Identity-and-Access-Management.md#implement-multi-factor-authentication-mfa-for-all-remote-access) and [additional phishing protections](https://github.com/rswt-rbartlett/cyber-security-framework/blob/main/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#implement-additional-phishing-protection), check that all social media accounts have MFA enabled wherever possible, and that those with access to Trust social media accounts are [aware](https://github.com/rswt-rbartlett/cyber-security-framework/blob/main/1-Understand-your-risks/Step-02-Engagement-and-Training.md#security-awareness) of the risks of phishing and malware. 
 
 # Financial Support To Achieve Cyber Essentials
 
-The NCSC announced their Funded Cyber Essentials Programme just before the break, and any Wildlife Trust up to 49 staff may be eligable, if you meet the criteria you you'll receive hands-on support from a Certifying Body (CB) at no cost (though any software or hardware you need to purchase would still need funding).
+The NCSC announced their [Funded Cyber Essentials Programme](https://www.ncsc.gov.uk/information/funded-cyber-essentials-programme) just before the break, and any Wildlife Trust up to 49 staff may be eligable, if you meet the criteria you you'll receive hands-on support from a Certifying Body (CB) at no cost (though any software or hardware you need to purchase would still need funding).
