@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Paypal scams
 
 There's been a rise in PayPal scams which are quite hard to spot because they come from legitimate PayPal servers.  They're suspected to be from compromised PayPal Business accounts, or accounts setup purely for the purpose of fraud.
