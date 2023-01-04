@@ -54,5 +54,7 @@ Security awareness material can be a complement to initial or refresher training
 1. 5th April, 2022 [Ransomware it could be you](./awareness/ransomware-it-could-be-you.md) (Executives, Managers and Technical Staff)
 2. 5th May, 2022 [Block attachments to prevent ransomware](./awareness/block-attachments-to-prevent-ransomware-infection.md) (Technical Staff)
 3. 30th June, 2022 [Thread hijacking](./awareness/thread-hijacking.md) (Technical Staff)
+4. 18th August, 2022 [Cyber threats and recommended mitigations](./awareness/cyber-threats-and-recommended-mitigations.md) 
+5. 21st September, 2022 [The Lockbit Ransomware Group](./awareness/the-lockbit-ransomware-group.md)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
