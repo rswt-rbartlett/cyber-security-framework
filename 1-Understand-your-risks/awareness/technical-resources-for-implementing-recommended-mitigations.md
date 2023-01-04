@@ -29,7 +29,7 @@ It doesn’t identify all technical resources associated with the recommendation
 2. :wrench: Where RDP is required on a system, whitelist so only the required hosts can connect (also using Windows Firewall rules).
 3. :wrench: Don't allow RDP from outside your network, only through a VPN connection (ideally also secured using MFA)
 4. :wrench: Enforce account lockout to prevent brute force attacks (using local or group policy). 
-5. :heavy_check_mark: Audit RDP connection and logon/logoff events, this Windows OS hub [article](http://woshub.com/rdp-connection-logs-forensics-windows/) describes which events to log the NCSC [Logging Made Easy](https://www.ncsc.gov.uk/information/logging-made-easy) is one way to setup your own SIEM using Windows Event Forwarding and Elastic Security.
+5. :heavy_check_mark: Audit RDP connection and logon/logoff events. This Windows OS hub [article](http://woshub.com/rdp-connection-logs-forensics-windows/) describes which events to log, and the NCSC [Logging Made Easy](https://www.ncsc.gov.uk/information/logging-made-easy) is one way to setup your own SIEM using Windows Event Forwarding and Elastic Security.
 
 # 4. Provide end-user awareness and training
 1. :wrench: Require all new staff to complete cyber security training (if you don't have an existing provider use the [free course](http://ncsc.gov.uk/training/v4/Top+tips/Web+package/content/index.html) from the NCSC) and ask people to complete a refresher if they are victim of a cyber-attack.
