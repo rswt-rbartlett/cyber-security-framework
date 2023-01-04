@@ -43,10 +43,11 @@ You may already have a package of training courses which includes a cyber securi
 
 ## Security awareness
 Security awareness material can be a complement to initial or refresher training, or an alternative if you chose not to require staff to complete a training course.  They make staff aware of changes to risks which affect them, so they can act accordingly.  Changes could be a new threat they should be aware of so they can recognise it, or a new feature which makes it easier for them to secure their data and devices.  Some examples are below, and whenever a new security briefing is posted to Wildnet it will be copied here for ease of access and re-use by any Trust.
-- [Block attachments to prevent ransomware](./awareness/block-attachments-to-prevent-ransomware-infection.md)
-- [Ransomware it could be you](./awareness/ransomware-it-could-be-you.md)
-- [Business email compromise](./awareness/business-email-compromise.md)
-- [Thread hijacking](./awareness/thread-hijacking.md)
-- [Slow down to prevent phishing](./awareness/slow-down-to-prevent-phishing.md)
+1. 5th April, 2022 [Ransomware it could be you](./awareness/ransomware-it-could-be-you.md)
+2. 5th May, 2022 [Block attachments to prevent ransomware](./awareness/block-attachments-to-prevent-ransomware-infection.md)
+3. 21st June, 2022 [Business email compromise](./awareness/business-email-compromise.md)
+4. 30th June, 2022 [Thread hijacking](./awareness/thread-hijacking.md)
+5. 11th August, 2022 [Slow down to prevent phishing](./awareness/slow-down-to-prevent-phishing.md)
+6. 2nd September, 2022 [Sharing files](./awareness/sharing-files.md)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
