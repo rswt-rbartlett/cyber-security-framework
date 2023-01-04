@@ -42,12 +42,17 @@ You may already have a package of training courses which includes a cyber securi
 - [Amazon Cyber Security Awareness training](https://learnsecurity.amazon.com/en/index.html)
 
 ## Security awareness
-Security awareness material can be a complement to initial or refresher training, or an alternative if you chose not to require staff to complete a training course.  They make staff aware of changes to risks which affect them, so they can act accordingly.  Changes could be a new threat they should be aware of so they can recognise it, or a new feature which makes it easier for them to secure their data and devices.  Some examples are below, and whenever a new security briefing is posted to Wildnet it will be copied here for ease of access and re-use by any Trust.
-1. 5th April, 2022 [Ransomware it could be you](./awareness/ransomware-it-could-be-you.md)
-2. 5th May, 2022 [Block attachments to prevent ransomware](./awareness/block-attachments-to-prevent-ransomware-infection.md)
-3. 21st June, 2022 [Business email compromise](./awareness/business-email-compromise.md)
-4. 30th June, 2022 [Thread hijacking](./awareness/thread-hijacking.md)
-5. 11th August, 2022 [Slow down to prevent phishing](./awareness/slow-down-to-prevent-phishing.md)
-6. 2nd September, 2022 [Sharing files](./awareness/sharing-files.md)
+Security awareness material can be a complement to initial or refresher training, or an alternative if you chose not to require staff to complete a training course.  They make staff aware of changes to risks which affect them, so they can act accordingly.  Changes could be a new threat they should be aware of so they can recognise it, or a new feature which makes it easier for them to secure their data and devices.  Below are the Security Briefings posted to Wildnet broken down into those for all staff, and those for specific audiences. Whenever a new security briefing is posted to Wildnet it will be copied here for ease of access and re-use by any Trust.
+
+### Security Briefings for All Staff
+1. 21st June, 2022 [Business email compromise](./awareness/business-email-compromise.md)
+2. 11th August, 2022 [Slow down to prevent phishing](./awareness/slow-down-to-prevent-phishing.md)
+3. 2nd September, 2022 [Sharing files](./awareness/sharing-files.md)
+4. 12th October, 2022 [Information Security Briefing Webinars now available](./awareness/information-security-briefing-webinars-now-available.md)
+
+### Security Briefings for specific audiences
+1. 5th April, 2022 [Ransomware it could be you](./awareness/ransomware-it-could-be-you.md) (Executives, Managers and Technical Staff)
+2. 5th May, 2022 [Block attachments to prevent ransomware](./awareness/block-attachments-to-prevent-ransomware-infection.md) (Technical Staff)
+3. 30th June, 2022 [Thread hijacking](./awareness/thread-hijacking.md) (Technical Staff)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
