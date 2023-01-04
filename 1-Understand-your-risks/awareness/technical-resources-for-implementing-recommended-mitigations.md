@@ -11,10 +11,10 @@ It doesn’t identify all technical resources associated with the recommendation
 
 # 1. Prioritise patching of known exploited vulnerabilities
 
-     1. Set all EUD to automatically download and install updates via Group Policy Objects (for domain joined computers), Local Policy (using LGPO) or Endpoint Manager/Intune (for Azure joined devices).
-	 2. Manage Windows servers updates using WSUS (for on-premises infrastructure) and/or Azure Update Management (for on-premises and cloud hosts).
-	 3. Sign up to NCSC ACD Early Warning (https://www.ncsc.gov.uk/section/active-cyber-defence/introduction) to monitor your perimeter, they will warn you of exposed ports and particularly vulnerable exposed services.
-	 4. Get a vulnerability scan of your perimeter and internal network from RSWT Strategic Lead for Cyber and Data Security or implement your own (e.g. free Nessus Pro)
+1. Set all EUD to automatically download and install updates via Group Policy Objects (for domain joined computers), Local Policy (using LGPO) or Endpoint Manager/Intune (for Azure joined devices).
+2. Manage Windows servers updates using WSUS (for on-premises infrastructure) and/or Azure Update Management (for on-premises and cloud hosts).
+3. Sign up to NCSC ACD Early Warning (https://www.ncsc.gov.uk/section/active-cyber-defence/introduction) to monitor your perimeter, they will warn you of exposed ports and particularly vulnerable exposed services.
+4. Get a vulnerability scan of your perimeter and internal network from RSWT Strategic Lead for Cyber and Data Security or implement your own (e.g. free Nessus Pro)
 
 # 2. Enforce multi-factor authentication (MFA)
 2.1. Enable MFA for all Azure/M365 accounts (this is free on Microsoft 365 Business Basic, Office 365 E1 and Microsoft 365 E3 and above, and on Google Workspace for non-profits).
