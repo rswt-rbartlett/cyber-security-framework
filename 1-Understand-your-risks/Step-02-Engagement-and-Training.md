@@ -49,6 +49,7 @@ Security awareness material can be a complement to initial or refresher training
 2. 11th August, 2022 [Slow down to prevent phishing](./awareness/slow-down-to-prevent-phishing.md)
 3. 2nd September, 2022 [Sharing files](./awareness/sharing-files.md)
 4. 12th October, 2022 [Information Security Briefing Webinars now available](./awareness/information-security-briefing-webinars-now-available.md)
+5. 19th October, 2022 [Paypal scams](./awareness/paypal-scams.md)
 
 ### Security Briefings for specific audiences
 1. 5th April, 2022 [Ransomware it could be you](./awareness/ransomware-it-could-be-you.md) (Executives, Managers and Technical Staff)
@@ -57,5 +58,6 @@ Security awareness material can be a complement to initial or refresher training
 4. 18th August, 2022 [Cyber threats and recommended mitigations](./awareness/cyber-threats-and-recommended-mitigations.md) (Executives, Managers and Technical Staff) 
 5. 18th August, 2022 [Technical resources for implementing recommended mitigations](./awareness/technical-resources-for-implementing-recommended-mitigations.md) (Technical Staff and Third Parties)
 6. 21st September, 2022 [The Lockbit Ransomware Group](./awareness/the-lockbit-ransomware-group.md)
+7. 4th October, 2022 [Paypal and Ofgem scams and an Exchange vulnerability](./awareness/paypal-and-ofgem-scams-and-an-exchange-vulnerability.md)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
