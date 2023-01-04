@@ -11,25 +11,26 @@ It doesn’t identify all technical resources associated with the recommendation
 
 # 1. Prioritise patching of known exploited vulnerabilities
 
-1. Set all EUD to automatically download and install updates via Group Policy Objects (for domain joined computers), Local Policy (using LGPO) or Endpoint Manager/Intune (for Azure joined devices).
-2. Manage Windows servers updates using WSUS (for on-premises infrastructure) and/or Azure Update Management (for on-premises and cloud hosts).
-3. Sign up to NCSC ACD Early Warning (https://www.ncsc.gov.uk/section/active-cyber-defence/introduction) to monitor your perimeter, they will warn you of exposed ports and particularly vulnerable exposed services.
-4. Get a vulnerability scan of your perimeter and internal network from RSWT Strategic Lead for Cyber and Data Security or implement your own (e.g. free Nessus Pro)
+1. :wrench: Set all EUD to automatically download and install updates via Group Policy Objects (for domain joined computers), Local Policy (using LGPO) or Endpoint Manager/Intune (for Azure joined devices).
+2. :wrench: Manage Windows servers updates using WSUS (for on-premises infrastructure) and/or Azure Update Management (for on-premises and cloud hosts).
+3. :heavy_check_mark:Sign up to NCSC ACD Early Warning (https://www.ncsc.gov.uk/section/active-cyber-defence/introduction) to monitor your perimeter, they will warn you of exposed ports and particularly vulnerable exposed services.
+4. :heavy_check_mark:Get a vulnerability scan of your perimeter and internal network from RSWT Strategic Lead for Cyber and Data Security or implement your own (e.g. free Nessus Pro)
 
 # 2. Enforce multi-factor authentication (MFA)
-1. Enable MFA for all Azure/M365 accounts (this is free on Microsoft 365 Business Basic, Office 365 E1 and Microsoft 365 E3 and above, and on Google Workspace for non-profits).
-2. Enable MFA for all Remote Access (particularly any Remote Desktop Gateway or VPN services, but more generally anything which allows access to your on-premises network).
-3. Block Legacy Protocols in M365 to prevent MFA bypass (see https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication). This will happen automatically starting October, but it's better to do it in a managed way and inform users in advance and help them switch to a modern authentication client, otherwise they'll be cut off from email.
-4. Enable MFA on cloud services which store PII (e.g., HR and Payroll systems and CRM systems).
-5. Check for users without MFA using LazyAdmin PowerShell script (see https://lazyadmin.nl/powershell/list-office365-mfa-status-powershell/) or MFASweep (see https://github.com/dafthack/MFASweep) WARNING the latter will probably trigger AV systems so run it on a virtual machine for that specific purpose.
-6. Monitor Azure sign-in logs for single factor authentication (also one of the steps in 3 above)
+1. :wrench: Enable MFA for all Azure/M365 accounts (this is free on Microsoft 365 Business Basic, Office 365 E1 and Microsoft 365 E3 and above, and on Google Workspace for non-profits).
+2. :wrench: Enable MFA for all Remote Access (particularly any Remote Desktop Gateway or VPN services, but more generally anything which allows access to your on-premises network).
+3. :wrench: Block Legacy Protocols in M365 to prevent MFA bypass (see https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication). This will happen automatically starting October, but it's better to do it in a managed way and inform users in advance and help them switch to a modern authentication client, otherwise they'll be cut off from email.
+4. :wrench: Enable MFA on cloud services which store PII (e.g., HR and Payroll systems and CRM systems).
+5. :heavy_check_mark:Check for users without MFA using LazyAdmin PowerShell script (see https://lazyadmin.nl/powershell/list-office365-mfa-status-powershell/) or MFASweep (see https://github.com/dafthack/MFASweep) WARNING the latter will probably trigger AV systems so run it on a virtual machine for that specific purpose.
+6. :heavy_check_mark:Monitor Azure sign-in logs for single factor authentication (also one of the steps in 3 above)
 
 # 3. Monitor remote desktop protocol (RDP)
-1. Block RDP on any systems where it’s not required via local or group policy settings (Computer Configuration\Windows Settings\Security Settings\Local Policies\User Rights Assignment) or Windows Firewall Rules (Remote Desktop - User Mode (TCP-In) & (UDP-In))
-2. Where RDP is required on a system, whitelist so only the required hosts can connect (also using Windows Firewall rules).
-3. Don't allow RDP from outside your network, only through a VPN connection (ideally also secured using MFA)
-4. Enforce account lockout to prevent brute force attacks (using local or group policy). 3.5. Audit RDP connection and logon/logoff events (see http://woshub.com/rdp-connection-logs-forensics-windows/ for which events to log and https://www.ncsc.gov.uk/information/logging-made-easy if you want to setup your own SIEM (using Windows Event Forwarding and Elastic Security).
+1. :wrench: Block RDP on any systems where it’s not required via local or group policy settings (Computer Configuration\Windows Settings\Security Settings\Local Policies\User Rights Assignment) or Windows Firewall Rules (Remote Desktop - User Mode (TCP-In) & (UDP-In))
+2. :wrench: Where RDP is required on a system, whitelist so only the required hosts can connect (also using Windows Firewall rules).
+3. :wrench: Don't allow RDP from outside your network, only through a VPN connection (ideally also secured using MFA)
+4. :wrench: Enforce account lockout to prevent brute force attacks (using local or group policy). 
+5. :heavy_check_mark: Audit RDP connection and logon/logoff events (see http://woshub.com/rdp-connection-logs-forensics-windows/ for which events to log and https://www.ncsc.gov.uk/information/logging-made-easy if you want to setup your own SIEM (using Windows Event Forwarding and Elastic Security).
 
 # 4. Provide end-user awareness and training
-1. Require all new staff to complete cyber security training (if you don't have an existing provider use http://ncsc.gov.uk/training/v4/Top+tips/Web+package/content/index.html) and ask people to complete a refresher if they are victim of a cyber-attack.
-2. When significant new threats emerge alert users and make sure they know what to do if they see something suspicious or think they have been compromised.
+1. :wrench: Require all new staff to complete cyber security training (if you don't have an existing provider use http://ncsc.gov.uk/training/v4/Top+tips/Web+package/content/index.html) and ask people to complete a refresher if they are victim of a cyber-attack.
+2. :wrench: When significant new threats emerge alert users and make sure they know what to do if they see something suspicious or think they have been compromised.
