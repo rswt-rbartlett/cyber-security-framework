@@ -1,3 +1,5 @@
+<img src="/Levels/twt-logo.png" height="100">
+
 # Emotet is back
 After being shut down in 2021 when a multinational law enforcement operation took control of the servers, Emotet is back again.  Expect to see more XLS malware either as direct .XLS attachments (Note: NOT .xlsx files, they're using a legacy file extension), or as password protected zip files. Bleeping Computer has a good [commentary and technical write-up](https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-4-month-break/).
 
