@@ -56,8 +56,9 @@ Security awareness material can be a complement to initial or refresher training
 2. 5th May, 2022 [Block attachments to prevent ransomware](./awareness/block-attachments-to-prevent-ransomware-infection.md) (Technical Staff)
 3. 30th June, 2022 [Thread hijacking](./awareness/thread-hijacking.md) (Technical Staff)
 4. 18th August, 2022 [Cyber threats and recommended mitigations](./awareness/cyber-threats-and-recommended-mitigations.md) (Executives, Managers and Technical Staff) 
-5. 18th August, 2022 [Technical resources for implementing recommended mitigations](./awareness/technical-resources-for-implementing-recommended-mitigations.md) (Technical Staff and Third Parties)
-6. 21st September, 2022 [The Lockbit Ransomware Group](./awareness/the-lockbit-ransomware-group.md)
-7. 4th October, 2022 [Paypal and Ofgem scams and an Exchange vulnerability](./awareness/paypal-and-ofgem-scams-and-an-exchange-vulnerability.md)
+5. 18th August, 2022 [Technical resources for implementing recommended mitigations](./awareness/technical-resources-for-implementing-recommended-mitigations.md) (Technical Staff and Third Parties) (Technical Staff)
+6. 21st September, 2022 [The Lockbit Ransomware Group](./awareness/the-lockbit-ransomware-group.md) (Technical Staff)
+7. 4th October, 2022 [Paypal and Ofgem scams and an Exchange vulnerability](./awareness/paypal-and-ofgem-scams-and-an-exchange-vulnerability.md) (Technical Staff)
+8. 7th November, 2022 [Emotet is back and other news for IT security people](./awareness/emotet-is-back-and-other-news-for-it-security-people.md) (Technical Staff)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
