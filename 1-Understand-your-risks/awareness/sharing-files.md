@@ -17,7 +17,7 @@ Firstly, to share files, and to make sure they're safe, they should only be stor
 
 If you need to store your files elsewhere please contact me as there are data loss/exposure risks from storing files in other locations (whether those are local solutions like external drives, pen drives or cloud services like Dropbox).  I'm not saying it's impossible to store files elsewhere but we should have a discussion about backup, access controls etc. to make sure you're not inadvertently exposing yourself or your Trust data to unnecessary risk!
 
-Having stored your files in one of those two locations, instead of emailing the file you just share a link to it, which has the following advantages:
+Having stored your files in one of those two locations, instead of **emailing the file** you just **share a link to it**, which has the following advantages:
 
 1. You can control who can see it, with the choices being only the recipients, anyone in your (or their) organisation, or anyone with the link (allowing them to forward the email to others).
 2. You can control whether they can read, edit, suggest changes or even download the file.
