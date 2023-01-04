@@ -64,7 +64,9 @@ Steps 1 and 2 should have no additional capital cost and should be seen as the m
 
 In a recent action[^6] the Information Commissioners Office demonstrated a willingness to impose financial penalties for failure to comply with Article 32 when they fined a law firm £98,000 on the grounds that they *“failed to process personal data in a manner that ensured appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures”.*
 
-It is understood that some Trusts may struggle to plan and resource these activities, and the Strategic Lead for Cyber and Data Security is available to support any Trust in implementing steps 1-4 above, and any additional steps they need to take to secure their systems and data.
+It is understood that some Trusts may struggle to plan and resource these activities, and the Strategic Lead is available to support any Trust in implementing steps 1-4 above, and any additional steps they need to take to secure their systems and data.  To support Trusts IT teams or Third Parties a briefing provides some technical background on:
+- :wrench: How to hit the minimum baseline technical controls, and
+- :heavy_check_mark: How to validate that the implemented controls were effective.
 
 [^1]: https://www.bbc.co.uk/news/technology-61981923 
 [^2]: https://nakedsecurity.sophos.com/2022/06/07/know-your-enemy-learn-how-cybercrime-adversaries-get-in/ 
