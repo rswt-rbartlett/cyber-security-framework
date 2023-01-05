@@ -16,9 +16,23 @@ Security assessments of the following suppliers are available from RSWT;
 - Engaging Networks
 
 ## Embed security into procurement
-When buying new products or services it is important to consider the security of those systems alongside cost, functionality, compatability and integration with existing systems.  The template IT Information Security Policy sets out the RSWT [approach](/it-information-security-policy.md#system-acquisition-and-development) to system procurement.  Particular care should be taken when procuring products or services which will hold personal or personal sensitive data.  If you need support in procuring a new system the Strategic Lead for Information Security at RSWT is able to complete suppliers reviews on your behalf.
+When buying new products or services it is important to consider the security of those systems alongside cost, functionality, compatability and integration with existing systems.  The template IT Information Security Policy sets out the RSWT [approach](/it-information-security-policy.md#system-acquisition-and-development) to system procurement.  Particular care should be taken when procuring products or services which will hold personal or personal sensitive data.  If you need support in procuring a new system the Strategic Lead for Information Security at RSWT is able to undertake suppliers reviews on your behalf.
 
 ## Work with your suppliers to improve security
-If you
+All Trusts rely to some extent on third parties and Trusts with less internal IT resource will rely more on their third parties. To support you in assessing how effective your supplier is at maintaining and improving your information security, below are some key indicators of success and topics of conversation
+
+### Indicators of success
+You should have the following in place or in progress within your Trust:
+- Multi-Factor Authentication for all internet accessible services (e.g. cloud services and remote access to office systems)
+- Centrally managed endpoint protection (anti-virus)
+- Centrally managed software updates (including computers, servers and any network infrastructure like routers, firewalls and wireless)
+- Backup of all critical Trust data somewhere safe
+
+## Topics of conversation
+- The supplier should be asking you about what data and services are most important to you and discussing how to protect those.
+- They should be proactively advising you where there are opportunities to improve your security (e.g. when new features are launched for services or systems you already use, or where new threats require new responses).
+- If you suffer from a security incident (e.g. a user account is compromised in a phishing attack or a laptop infected with malware) your supplier should be talking to you about how to prevent future recurrences.
+
+Different suppliers take different approaches, with some more passive than others.  In the short term you could meet with your supplier and discuss how they can support you in implementing the [recommended mitigation](/1-Understand-your-risks/awareness/cyber-threats-and-recommended-mitigations.md#recommended-mitigation) from the August 2022 briefing to Chief Executives.  In the longer term you should review with your supplier where you are in comparison to the [maturity level](/cyber-security-framework#approach) you are trying to reach.
 
 ## Return to [Step 3. Asset management](./Step-03-Asset-Management.md) or continue to [Step 5. Architecture and configuration](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md)
