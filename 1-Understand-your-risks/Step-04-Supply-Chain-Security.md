@@ -22,7 +22,7 @@ When buying new products or services it is important to consider the security of
 All Trusts rely to some extent on third parties and Trusts with less internal IT resource will rely more on their third parties. To support you in assessing how effective your supplier is at maintaining and improving your information security, below are some key indicators of success and conversations you should be having.
 
 ### Indicators of success
-You should have the following in place or in progress within your Trust:
+The following controls should be implemented or in the process of being implemented;
 - Multi-Factor Authentication for all internet accessible services (e.g. cloud services and remote access to office systems)
 - Centrally managed endpoint protection (anti-virus)
 - Centrally managed software updates (including computers, servers and any network infrastructure like routers, firewalls and wireless)
