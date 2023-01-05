@@ -19,7 +19,7 @@ Security assessments of the following suppliers are available from RSWT;
 When buying new products or services it is important to consider the security of those systems alongside cost, functionality, compatability and integration with existing systems.  The template IT Information Security Policy sets out the RSWT [approach](/it-information-security-policy.md#system-acquisition-and-development) to system procurement.  Particular care should be taken when procuring products or services which will hold personal or personal sensitive data.  If you need support in procuring a new system the Strategic Lead for Information Security at RSWT is able to undertake suppliers reviews on your behalf.
 
 ## Work with your suppliers to improve security
-All Trusts rely to some extent on third parties and Trusts with less internal IT resource will rely more on their third parties. To support you in assessing how effective your supplier is at maintaining and improving your information security, below are some key indicators of success and topics of conversation
+All Trusts rely to some extent on third parties and Trusts with less internal IT resource will rely more on their third parties. To support you in assessing how effective your supplier is at maintaining and improving your information security, below are some key indicators of success and conversations you should be having.
 
 ### Indicators of success
 You should have the following in place or in progress within your Trust:
