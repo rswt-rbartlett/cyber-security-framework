@@ -16,6 +16,8 @@ The controls listed in this framework can be implemented by Trust staff, third p
 To support Trusts in reaching an understanding about who is responsible for each control an illustration [Shared Responsibility Model](/1-Understand-your-risks/shared-responsibility-model.md) has been developed to support conversations and decision making in this area.
 
 # The Standard
+Below are statements under each of the 10 Steps with which Trusts can demonstrate compliance.
+
 1. Risk management
 	- Cyber risk is integrated into Trust risk management processes and procedures
 	- Risk scope including information assets, systems and suppliers is documented and reviewed periodically
