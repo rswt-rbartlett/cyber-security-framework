@@ -8,7 +8,7 @@ This framework sets out a standard for Cyber Security for The Wildlife Trusts to
 
 The framework is based on the National Cyber Security Centre (NCSC) ['10 Steps to Cyber Security'](https://www.ncsc.gov.uk/collection/10-steps) and the steps apply to all Trusts, with the effort and skills required being proportional to the resource and size of the Trust. Each step is linked to the accompanying guidance which supports Trusts in implementing the measures.
 
-In addition to the standard set out below a [Maturity Model](/Levels/#readme) which suggests the extent of the measures Trusts should take in meeting this standard dependent on the scope of their information systems and the resultant risks.
+In addition to the standard set out below a [Maturity Model](/Levels/README.md) which suggests the extent of the measures Trusts should take in meeting this standard dependent on the scope of their information systems and the resultant risks.
 
 ## Working with suppliers
 The controls listed in this framework can be implemented by Trust staff, third party suppliers, or a combination of the two. In this vital that each Trust has a clear understanding of which party is responsible for the control, and where a supplier is responsible that is explicit in the agreement with them.  Otherwise it is possible for unshared assumptions on both sides to lead to critical responsibilities being missed, leading to increased risk or security breaches.
