@@ -6,7 +6,7 @@ Below are the requirements (37) for Trusts with significant on-premises infrastr
 
 -   Step 1. Risk management
     -   [Integrating Cyber Risk Management](/1-Understand-your-risks/Step-01-Risk-Management.md#integrating-cyber-risk-management)
-    -   [Scope](/1-Understand-your-risks/Step-01-Risk-Management.md#define-scope) +
+    -   [Scope](/1-Understand-your-risks/Step-01-Risk-Management.md#define-scope)
     -   [Common risks](/1-Understand-your-risks/Step-01-Risk-Management.md#common-risks)
 -   Step 2. Engagement and training
     -   [Top down support](/1-Understand-your-risks/Step-02-Engagement-and-Training.md#step-2-engagement-and-training)
