@@ -1,9 +1,7 @@
 <img src="/Levels/twt-logo.png" height="100">
 
 # Introduction
-Reflecting the proportionality principle of the UK GDPR the standard set out in the framework should be considered
-
-All Trusts regardless of size will benefit from improving the maturity of their security controls, but these levels are a guide to where your Trust should be, or working towards as a priority. Click on the relevant level to see a list of the recommendations and the corresponding resources.
+Most Trusts should be able and probably need to build upon the Foundations measures set out in the Standard.  As Trusts grow the number of systems used and the quantity of personal data gathered also grows. This increases the level of risk, which necessitates a stronger set of controls to mitigate that increased risk.  To support Trusts in meeting the GDPR definition of "appropriate technical and organisational measures" (taking into account cost and risk), three maturity levels have been defined which are commensurate with Trusts of different resources and complexity.
 
 1. [Foundations](/Levels/Foundations.md) (all Trusts should meet this level or be prioritising working towards it)
 2. [Structured](/Levels/Structured.md) (Trusts which use a small number of cloud services and have no on-premises infrastructure should meet this level) 
