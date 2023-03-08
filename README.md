@@ -1,14 +1,19 @@
 <img src="/Levels/twt-logo.png" height="100">
 
 # cyber-security-framework
- A Cyber Security Framework for The Wildlife Trusts
+A Cyber Security Framework for The Wildlife Trusts
 
 # Introduction
-This framework is written to be proportional, following the principle of Article 32 of the UK GDPR to "implement appropriate technical and organisational measures", taking into account factors including risk and the costs of implementation.  The framework is based on the National Cyber Security Centre (NCSC) '10 Steps to Cyber Security', and each of the steps applies to all Trusts, with the effort and skills required being proportional to the resource and size of the Trust.
+This framework sets out a standard for Cyber Security for The Wildlife Trusts to support the whole federation meeting legislative and regulatory requirements. It is written to be proportional, following the principle of [Article 32](https://www.legislation.gov.uk/eur/2016/679/article/32) of the UK GDPR to "implement appropriate technical and organisational measures", taking into account factors including risk and the costs of implementation.
 
-Each of the 10 steps below is linked to the accompanying guidance which supports Trusts in implementing the measures.
+The framework is based on the National Cyber Security Centre (NCSC) ['10 Steps to Cyber Security'](https://www.ncsc.gov.uk/collection/10-steps) and the steps apply to all Trusts, with the effort and skills required being proportional to the resource and size of the Trust. Each step is linked to the accompanying guidance which supports Trusts in implementing the measures.
 
-In addition to these measures there is a Maturity Model which suggests the extent of the measures Trusts should take in meeting this standard dependent on the scope of their information systems and the resultant risks.
+In addition to the standard set out below a [Maturity Model] which suggests the extent of the measures Trusts should take in meeting this standard dependent on the scope of their information systems and the resultant risks.
+
+## Working with suppliers
+The controls listed in this framework can be implemented by Trust staff, third party suppliers, or a combination of the two. In this vital that each Trust has a clear understanding of which party is responsible for the control, and where a supplier is responsible that is explicit in the agreement with them.  Otherwise it is possible for unshared assumptions on both sides to lead to critical responsibilities being missed, leading to increased risk or security breaches.
+
+To support Trusts in reaching an understanding about who is responsible for each control an illustration [Shared Responsibility Model](/1-Understand-your-risks/shared-responsibility-model.md) has been developed to support conversations and decision making in this area.
 
 1. Risk management
 	- Cyber risk is integrated into Trust risk management processes and procedures
