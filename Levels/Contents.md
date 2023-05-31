@@ -1,7 +1,7 @@
 # Contents
 - [Step 1. Risk management](/1-Understand-your-risks/Step-01-Risk-Management.md)
     -   [Integrating Cyber Risk Management](/1-Understand-your-risks/Step-01-Risk-Management.md#integrating-cyber-risk-management)
-    -   [Scope](/1-Understand-your-risks/Step-01-Risk-Management.md#scope)
+    -   [Scope](/1-Understand-your-risks/Step-01-Risk-Management.md#define-scope)
     -   [Common risks](/1-Understand-your-risks/Step-01-Risk-Management.md#common-risks)
 - [Step 2. Engagement and training](/1-Understand-your-risks/Step-02-Engagement-and-Training.md)
     -   [Top down support](/1-Understand-your-risks/Step-02-Engagement-and-Training.md#step-2-engagement-and-training)
