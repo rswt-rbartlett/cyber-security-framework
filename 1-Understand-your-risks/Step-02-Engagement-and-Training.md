@@ -66,5 +66,6 @@ Security awareness material can be a complement to initial or refresher training
 11. 13th February, 2023 [OneNote attachments risk and upcoming Microsoft MFA changes](./awareness/onenote-attachments-risk-and-upcoming-microsoft-mfa-changes.md) (Technical Staff)
 12. 2nd March, 2023 [The importance of people-centred cyber security](./awareness/the-importance-of-people-centred-cyber-security.md) (Technical Staff)
 13. 12th April, 2023 [Some rare good news in cyber security](./awareness/some-rare-good-news-in-cyber-security.md) (Technical Staff)
+14. 31st May, 2023 [Zyxel and WordPress vulnerabilities and the end of E2 Office 365 licenses](./awareness/zyxel-and-wordpress-vulnerabilities-and-the-end-of-e2-office-365-licenses.md)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
