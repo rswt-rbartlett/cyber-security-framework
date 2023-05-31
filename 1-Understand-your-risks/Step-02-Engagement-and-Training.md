@@ -61,8 +61,9 @@ Security awareness material can be a complement to initial or refresher training
 6. 21st September, 2022 [The Lockbit Ransomware Group](./awareness/the-lockbit-ransomware-group.md) (Technical Staff)
 7. 4th October, 2022 [Paypal and Ofgem scams and an Exchange vulnerability](./awareness/paypal-and-ofgem-scams-and-an-exchange-vulnerability.md) (Technical Staff)
 8. 7th November, 2022 [Emotet is back and other news for IT security people](./awareness/emotet-is-back-and-other-news-for-it-security-people.md) (Technical Staff)
-9. 4th January, 2023 [LastPass breach, Ransomware at the Guardian and other news](./awareness/lastpass-breach-ransomware-at-the-guardian-and-other-news.md)
-10. 19th January, 2023 [Increased threats from phishing and infostealers](./awareness/increased-threats-from-phishing-and-infostealers.md)
-11. 13th February, 2023 [OneNote attachments risk and upcoming Microsoft MFA changes](./awareness/onenote-attachments-risk-and-upcoming-microsoft-mfa-changes.md)
+9. 4th January, 2023 [LastPass breach, Ransomware at the Guardian and other news](./awareness/lastpass-breach-ransomware-at-the-guardian-and-other-news.md) (Technical Staff and Managers)
+10. 19th January, 2023 [Increased threats from phishing and infostealers](./awareness/increased-threats-from-phishing-and-infostealers.md) (Technical Staff)
+11. 13th February, 2023 [OneNote attachments risk and upcoming Microsoft MFA changes](./awareness/onenote-attachments-risk-and-upcoming-microsoft-mfa-changes.md) (Technical Staff)
+12. 2nd March, 2023 [The importance of people-centred cyber security](./awareness/the-importance-of-people-centred-cyber-security.md) (Technical Staff)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
