@@ -1,0 +1,16 @@
+<img src="/Levels/twt-logo.png" height="100">
+I'm off for a week and a half, but before I left I wanted to share some (rare) good news and also reiterate a couple of key mitigations using examples of recent high profile cyber security incidents.
+ 
+# Genesis marketplace taken down
+Last week the National Crime Agency, as part of an international multi-agency action, [executed 31 warrants](https://nationalcrimeagency.gov.uk/news/notorious-criminal-marketplace-selling-victim-identities-taken-down-in-international-operation) in the UK against users of the Genesis Marketplace, a which is used to buy and sell stolen credentials. As part of this action the websites and domains used by this group were taken down [world wide](https://therecord.media/genesis-market-takedown-cybercrime). Dark web markets like this are a huge part of the ransomware ecosystem, enabling low-skill cyber-criminals to buy access to an organisation who they can then extort by stealing and/or encrypting their data. Whilst this action won't stop ransomware it has certainly caused significant disruption for it's users, and reduced risk for everyone (including Trusts in the federation).
+ 
+# Lessons to learn from recent high profile incidents
+Ransomware incidents are happening all the time, and whist details are often hard to come by (no-one wants to talk about their mistakes) we can learn lessons from two recent high profile incidents. 
+- **3CX**
+   - **Incident**: Two weeks ago cyber-criminals managed to insert a trojan into the 3CX DesktopApp, part of the popular 3CX voice and video conferencing platform. This meant if you downloaded the latest version of the software from their website it contained malicious code which would allow attackers to take over your system.
+   - **Lesson learnt**: Supply Chain attacks (attacks on those companies which provide you with software and services) should be one of the cyber security risks you consider. When you choose a supplier **review their security** (I'm able to do security assessments for any Trust). When implementing a product or service think about what would happen if the supplier were compromised.
+- **ALPHV ransomware gang exploits 2 year old Veritas vulnerability**
+   - **Incident**: At the beginning of April, security company Mandiant [reported](https://www.mandiant.com/resources/blog/alphv-ransomware-backup) that a cyber-crime group known as ALPHV were using a flaw in Veritas BackupExec which has been patched for over 18 months to infiltrate organisations and execute ransomware attacks.
+   - **Lesson learnt**: Know what you're running, particularly what is exposed to the internet, and **patch vulnerable systems** as a matter of urgency.  Leaving unpatched systems visible on the internet is a surefire way to get compromised. Even staff systems like laptops and PCs, whilst not visible on the internet, will be exposed to threats via email and web browsing, and should be patched regularly.
+
+That's it from me, please do post comments if you have any questions or other feedback, or drop me an email and I'll get back to you as soon as I can.
