@@ -8,11 +8,11 @@ Cyber security is always a careful balancing act between usability and security,
 Developing people focused cyber security is about the effective balance between usability and security, below are some tips on achieving that.
 
 # Know your threat model
-Lots of things could happen to your organisation but it's important to recognise what is likely to happen, because that's what you then work to prevent.
+Lots of things **could** happen to your organisation but it's important to recognise what is **likely** to happen, because that's what you then work to prevent.
  
-As a Wildlife Trust your threat model does not include Chinese, Russian or North Korean state sponsored cyber crime groups, nor does it include the Advanced Persistent Threat groups behind recent breaches at LastPass, T-Mobile and GoDaddy. This means sophisticated methods of hacking you read about in the press are unlikely to be used against your Trust because the groups skilled enough to use those techniques are targeting organisations where their financial return will be higher (Fortune 500 or FTSE 100 companies where they can get large paybacks or targets of hostile nation states like military or intelligence services).
+As a Wildlife Trust your threat model **does not** include Chinese, Russian or North Korean state sponsored cyber crime groups, nor does it include the Advanced Persistent Threat groups behind recent breaches at LastPass, T-Mobile and GoDaddy. This means sophisticated methods of hacking you read about in the press are unlikely to be used against your Trust because the groups skilled enough to use those techniques are targeting organisations where their financial return will be higher (Fortune 500 or FTSE 100 companies where they can get large paybacks or targets of hostile nation states like military or intelligence services).
  
-Your threat model does include access brokers looking to exploit publicly accessible systems with single-factor authentication or  unpatched vulnerabilities and end user devices without endpoint protection. They will look to gain access via stolen credentials or exploiting vulnerabilities and sell that to lower tier cyber-crime groups who are financially motivated and using Ransomware-as-a-Service tools to get into your network and steal or encrypt data. 
+Your threat model **does** include access brokers looking to exploit publicly accessible systems with single-factor authentication or  unpatched vulnerabilities and end user devices without endpoint protection. They will look to gain access via stolen credentials or exploiting vulnerabilities and sell that to lower tier cyber-crime groups who are financially motivated and using Ransomware-as-a-Service tools to get into your network and steal or encrypt data. 
  
 Understanding your threat model means you know what you're defending against, and can scale your controls accordingly.
  
@@ -25,8 +25,8 @@ Decisions about which solutions to employ, what processes to follow and what inv
 # Be proportionate
  
 Find balance in your cyber security controls by scaling them in proportion to the likelihood and impact of the risk.
-For a low likelihood high impact risk like Insider Attack apply non-disruptive controls like auditing, monitoring and alerts, and access control developed in collaboration with the organisation, working with or if possible improving existing processes.
-For a high impact high likelihood risk like Ransomware apply more stringent and potentially disruptive controls like Multi-Factor Authentication, Endpoint Protection and Application Controls, where that dispuption can be justified by the significant reduction in risk.
+- For a low likelihood high impact risk like Insider Attack apply non-disruptive controls like auditing, monitoring and alerts, and access control developed in collaboration with the organisation, working with or if possible improving existing processes.
+- For a high impact high likelihood risk like Ransomware apply more stringent and potentially disruptive controls like Multi-Factor Authentication, Endpoint Protection and Application Controls, where that dispuption can be justified by the significant reduction in risk.
  
 # Work in the open
  
