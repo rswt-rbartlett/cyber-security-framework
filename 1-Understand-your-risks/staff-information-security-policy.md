@@ -21,7 +21,7 @@ If you think your computer or a RSWT computer is infected with a virus, your acc
 You should take care of any RSWT information you have access to including your own work, and protect it against unauthorised disclosure, modification, or destruction. Here are three simple steps you can take to protect your identity and your work:
 
 1. **[Look after](https://www.getsafeonline.org/personal/articles/passwords/)** the password for your RSWT account. You must never disclose your password to anyone (including IT staff who will never ask you for your password).
-2. **[Update](https://rswt.sharepoint.com/sites/IT/SitePages/Staff-Information-Security-'how-to'.aspx#update-any-personal-computers-and-devices)** any personal computers and devices you use to access RSWT information with the latest software patches and updates and protect your computer using up to date anti-virus software.
+2. **[Update](./update-any-personal-computers-and-devices.md** any personal computers and devices you use to access RSWT information with the latest software patches and updates and protect your computer using up to date anti-virus software.
 3. **[Secure](https://rswt.sharepoint.com/sites/IT/SitePages/Staff-Information-Security-'how-to'.aspx#update-any-personal-computers-and-devices)** any personal computer or device you use to access RSWT information with a PIN or password. This makes it harder for someone to access your personal information or RSWT information if your device is lost or stolen.
 
 # Mobile devices and remote working
