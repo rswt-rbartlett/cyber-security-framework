@@ -1,5 +1,6 @@
 <img src="/Levels/twt-logo.png" height="100">
 
+# Quick Guide
 <img src="./staff-information-security-policy-quick-guide.png">
 
 # Purpose
