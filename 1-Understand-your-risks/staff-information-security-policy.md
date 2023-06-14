@@ -1,5 +1,7 @@
 <img src="/Levels/twt-logo.png" height="100">
 
+<img src="./staff-information-security-policy-quick-guide.png">
+
 # Purpose
 This policy sets out the conditions of use for Royal Society of Wildlife Trusts (RSWT) computers and systems, including applications used on personal devices, to protect those systems and the information stored on them for which the RSWT is legally responsible. Adherence to this policy is mandatory and non-compliance could lead to disciplinary action.
 If you need any help complying with this guidance (for example technical assistance) please contact ICT.
