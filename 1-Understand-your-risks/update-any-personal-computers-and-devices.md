@@ -14,4 +14,4 @@
 
 # Secure by lock-on-idle policy
 - Apple = https://support.apple.com/en-gb/guide/mac-help/mchl4b68853d/mac to set the screen saver and https://support.apple.com/en-gb/guide/mac-help/mchlp2270/12.0/mac/12.0 to require a password after sleep or screen saver.
-​​​​​​​- Microsoft = https://support.microsoft.com/en-us/windows/change-your-screen-saver-settings-a9dc2a0c-dc8e-9161-d270-aaccc252082a, set Wait to 10 minutes or less, and check the box On resume, display logon screen. 
+- Microsoft = https://support.microsoft.com/en-us/windows/change-your-screen-saver-settings-a9dc2a0c-dc8e-9161-d270-aaccc252082a, set Wait to 10 minutes or less, and check the box On resume, display logon screen. 
