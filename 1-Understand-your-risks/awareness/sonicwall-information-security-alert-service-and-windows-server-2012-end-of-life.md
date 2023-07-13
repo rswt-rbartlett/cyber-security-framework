@@ -1,5 +1,5 @@
 <img src="/Levels/twt-logo.png" height="100">
-There's never a quiet month in cyber security, but over the past month at least it's felt like it was happening to other people. The Trusts seem to be unaffected by the MOVEit breach, and Emotet (one of the largest botnets) is largely dormant so phishing attacks are down.  However there are a couple of things Wildlife Trusts should be aware of, set out below. As always, if you have any questions comment on the post or send me an email.
+There's never a quiet month in cyber security, but over the past month at least it's felt like it was happening to other people. The Trusts seem to be unaffected by the [MOVEit breach](https://www.reuters.com/technology/who-is-behind-sweeping-moveit-hack-2023-06-27/), and Emotet (one of the largest botnets) is largely dormant so phishing attacks are down.  However there are a couple of things Wildlife Trusts should be aware of, set out below. As always, if you have any questions comment on the post or send me an email.
 
 # Urgent Security Notice for SonicWall GMS/Analytics
 Yesterday (12th July) SonicWall issued an [Urgent Security Notice](https://www.sonicwall.com/support/product-notification/urgent-security-notice-sonicwall-gms-analytics-impacted-by-suite-of-vulnerabilities/230710150218060/) for SonicWall GMS/Analytics, their Global Management System for managing multiple SonicWall or Dell X-Series devices (only likely in the larger Trusts with multiple SonicWall devices).
@@ -41,4 +41,3 @@ These are all vulnerabilities which allow an attacker to take control of the sys
 It is vital that any servers you run (particularly those that hold personally identifiable data or critical operational data) are supported by the vendor.  This means they will receive patches when a security vulnerability is found.  Windows Server 2012 and 2012 R2 are commonly used across the federation, but they will no longer receive patches after October 10th this year.  Three months might seem like a long time away, but it will take longer than you think to retire those servers (whether you upgrade, replace or migrate to cloud).
 
 **Recommendation**: If possible migrate any Windows Server 2012/2012 R2 files and applications to cloud. If not, upgrade or replace the server with a currently supported server, preferable Windows Server 2022 to give you maximum server life.
-
