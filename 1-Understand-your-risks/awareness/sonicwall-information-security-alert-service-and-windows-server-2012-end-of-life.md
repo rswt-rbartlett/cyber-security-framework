@@ -1,5 +1,5 @@
 <img src="/Levels/twt-logo.png" height="100">
-There's never a quiet month in cyber security, but over the past month at least it's felt like it's happening to other people (the Trusts seemed to be unaffected by the MOVEit breach, and with one of the largest botnets largely dormant phishing attacks are down).  As always, if you have any questions comment on the post or send me an email.
+There's never a quiet month in cyber security, but over the past month at least it's felt like it was happening to other people (the Trusts seemed to be unaffected by the MOVEit breach, and with one of the largest botnets largely dormant phishing attacks are down).  However there are a couple of things Wildlife Trusts should be aware of, set out below. As always, if you have any questions comment on the post or send me an email.
 
 # Urgent Security Notice for SonicWall GMS/Analytics
 Yesterday (12th July) SonicWall issued an [Urgent Security Notice](https://www.sonicwall.com/support/product-notification/urgent-security-notice-sonicwall-gms-analytics-impacted-by-suite-of-vulnerabilities/230710150218060/) for SonicWall GMS/Analytics, their Global Management System for managing multiple SonicWall or Dell X-Series devices (only likely in the larger Trusts with multiple SonicWall devices).
@@ -16,13 +16,13 @@ I'm also planning to do higher level quarterly briefings for Managers and annual
 # Risk Trends
 Cyber security commentators are calling out a trend over the last year or so for specific types of product to be targeted by cyber-crime groups with widespread impact.  Below are prominent examples just from 2023 (though the trend has been apparent since before the pandemic). Ironically these are all security products (either firewalls/routers designed to separate your internal network with the wider internet or secure file transfer software).
 
-Routers
+## Routers
 CVE-2023-28771 (Zyxel firewalls) OS command injection used by the Mirai botnet
 CVE-2023-1389 (TP-Link routers) OS command injection used by the Mirai botnet
-File transfer software
+## File transfer software
 CVE-2023-0669 (Fortra Goanywhere Managed File Transfer) used by the Cl0p ransomware group
 CVE-2023-34362 (Progress MOVEit Transfer) an SQL Injection vulnerability used by the Cl0p ransomware group
-Firewall/Remote Access
+## Firewall/Remote Access
 CVE-2023-2868 (Barracuda Email Security Gateways) used by Chinese espionage groups
 CVE-2022-41328 (Fortinet FortiOS firewalls) used by Chinese espionage groups
 
