@@ -30,10 +30,15 @@ Cyber security commentators are calling out a trend over the last year or so for
 - [CVE-2023-2868](https://nvd.nist.gov/vuln/detail/CVE-2023-2868) (Barracuda Email Security Gateways) used by Chinese espionage groups
 - [CVE-2022-41328](https://nvd.nist.gov/vuln/detail/CVE-2022-41328) (Fortinet FortiOS firewalls) used by Chinese espionage groups
 
-These are all vulnerabilities which allow an attacker to take total control of the system, over the internet, without a password.  These are sometimes referred to as a 'one click exploit' or 'one click hack', and are typically a result of making programming mistakes which most undergraduates are taught about year 2 of their degree.
+These are all vulnerabilities which allow an attacker to take control of the system, over the internet, without a password.  Such flaws are not bad luck, or due to the outstanding technical skills of the attacker, they're caused by poor programming and a lack of code testing by the vendor.
+
+**Recommendations**:
+- Check your routers, firewall/remote access and file transfer systems.
+- If you use one of the products listed above make sure it's patched, and consider whether you should move to an alternative vendor. 
+- File transfer systems in particular are being targeted, and they are often low-mid cost systems where the vendor has not got the resources or motivation to find historic security flaws. For those systems I would recommend using Microsoft OneDrive/SharePoint or Google Drive. These two vendors also have security flaws in their products, but as they are much larger they are a much harder target to attack.
 
 # End of support for Windows Server 2012 and Windows Server 2012 R2 Oct 10, 2023
+It is vital that any servers you run (particularly those that hold personally identifiable data or critical operational data) are supported by the vendor.  This means they will receive patches when a security vulnerability is found.  Windows Server 2012 and 2012 R2 are commonly used across the federation, but they will no longer receive patches after October 10th this year.  Three months might seem like a long time away, but it will take longer than you think to retire those servers (whether you upgrade, replace or migrate to cloud).
 
-# Barts Health NHS Trust breach
-highlights importance of protecting access to staff PII
+**Recommendation**: If possible migrate any Windows Server 2012/2012 R2 files and applications to cloud. If not, upgrade or replace the server with a currently supported server, preferable Windows Server 2022 to give you maximum server life.
 
