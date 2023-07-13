@@ -67,5 +67,7 @@ Security awareness material can be a complement to initial or refresher training
 12. 2nd March, 2023 [The importance of people-centred cyber security](./awareness/the-importance-of-people-centred-cyber-security.md) (Technical Staff)
 13. 12th April, 2023 [Some rare good news in cyber security](./awareness/some-rare-good-news-in-cyber-security.md) (Technical Staff)
 14. 31st May, 2023 [Zyxel and WordPress vulnerabilities and the end of E2 Office 365 licenses](./awareness/zyxel-and-wordpress-vulnerabilities-and-the-end-of-e2-office-365-licenses.md) (Technical Staff)
+15. 5th June, 2023 [Security Alert for any Trusts using MOVEit file transfer software](./awareness/security-alert-for-any-trusts-using-moveit-file-transfer-software.md) (Technical Staff and Managers)
+16. 13th July, 2023 [SonicWall, information security alert service and Windows Server 2012 end of life](./awareness/sonicwall-information-security-alert-service-and-windows-server-2012-end-of-life.md) (Technical Staff)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
