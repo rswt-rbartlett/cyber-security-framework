@@ -19,19 +19,16 @@ I'm also planning to do higher level quarterly briefings for Managers and annual
 Cyber security commentators are calling out a trend over the last year or so for specific types of product to be targeted by cyber-crime groups with widespread impact.  Below are prominent examples just from 2023 (though the trend has been apparent since before the pandemic). Ironically these are all security products (either firewalls/routers designed to separate your internal network with the wider internet or secure file transfer software).
 
 ## Routers
-
-CVE-2023-28771 (Zyxel firewalls) OS command injection used by the Mirai botnet
-CVE-2023-1389 (TP-Link routers) OS command injection used by the Mirai botnet
+- CVE-2023-28771 (Zyxel firewalls) OS command injection used by the Mirai botnet
+- CVE-2023-1389 (TP-Link routers) OS command injection used by the Mirai botnet
 
 ## File transfer software
-
-CVE-2023-0669 (Fortra Goanywhere Managed File Transfer) used by the Cl0p ransomware group
-CVE-2023-34362 (Progress MOVEit Transfer) an SQL Injection vulnerability used by the Cl0p ransomware group
+- CVE-2023-0669 (Fortra Goanywhere Managed File Transfer) used by the Cl0p ransomware group
+- CVE-2023-34362 (Progress MOVEit Transfer) an SQL Injection vulnerability used by the Cl0p ransomware group
 
 ## Firewall/Remote Access
-
-CVE-2023-2868 (Barracuda Email Security Gateways) used by Chinese espionage groups
-CVE-2022-41328 (Fortinet FortiOS firewalls) used by Chinese espionage groups
+- CVE-2023-2868 (Barracuda Email Security Gateways) used by Chinese espionage groups
+- CVE-2022-41328 (Fortinet FortiOS firewalls) used by Chinese espionage groups
 
 These are all vulnerabilities which allow an attacker to take total control of the system, over the internet, without a password.  These are sometimes referred to as a 'one click exploit' or 'one click hack', and are typically a result of making programming mistakes which most undergraduates are taught about year 2 of their degree.
 
