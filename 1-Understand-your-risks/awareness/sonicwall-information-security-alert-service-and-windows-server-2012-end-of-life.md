@@ -28,7 +28,7 @@ Cyber security commentators are calling out a trend over the last year or so for
 
 ## Firewall/Remote Access
 - [CVE-2023-2868](https://nvd.nist.gov/vuln/detail/CVE-2023-2868) (Barracuda Email Security Gateways) used by Chinese espionage groups
-- [CVE-2022-41328](https://nvd.nist.gov/vuln/detail/CVE-2023-41328) (Fortinet FortiOS firewalls) used by Chinese espionage groups
+- [CVE-2022-41328](https://nvd.nist.gov/vuln/detail/CVE-2022-41328) (Fortinet FortiOS firewalls) used by Chinese espionage groups
 
 These are all vulnerabilities which allow an attacker to take total control of the system, over the internet, without a password.  These are sometimes referred to as a 'one click exploit' or 'one click hack', and are typically a result of making programming mistakes which most undergraduates are taught about year 2 of their degree.
 
