@@ -1,5 +1,5 @@
 <img src="/Levels/twt-logo.png" height="100">
-When assessing the security of a proposed new system, or a system which is new to me, these are the questions I ask. , with the answers determining the level of risk.
+When assessing the security of a proposed new system, or a system which is new to me, these are the questions I ask.  The answers then give me an idea of the level of risk of the application.  If the system doesn't hold confidential or strictly confidential data then even if the answers to questions 2-5 aren't great, the risk might still be acceptable because the consequences of a breach are lower.
 
 1. **What type of data will it store and process?** If it includes only public data the risk is lower, if it includes confidential (internal only) or strictly confidential (personal and sensitive personal information) then the risk is higher.
 2. **What is the attack surface of the system?** The attack surface is what an attacker use, including network ports, services and management interfaces.  Well architected systems have a very small attack surface, with only the vital interfaces and services exposed, and management interfaces and optional features disabled, hidden or restricted by default.
