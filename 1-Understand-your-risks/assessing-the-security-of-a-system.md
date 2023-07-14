@@ -11,7 +11,7 @@ The attack surface is what an attacker use, including network ports, services an
 # How are system users authenticated and authorised?
 If the system will hold confidential or strictly confidential information then users identity should be verified by strong authentication (for example Multi-Factor or Certificate authentication). Authorisation to access data within the system should be based on Role Based Access Control (RBAC) where permission to access data is based on the role or group membership of the users, rather than direct assignment of permissions to individuals.
 
-#Is the system well written and maintained?
+# Is the system well written and maintained?
 The size of the team maintaining the product is not necessarily an indicator of quality. Very large vendors have vulnerabilities in their code, and open-source projects maintained by one person may have less, or none.  The security of the product is a consequence of the skills of those writing code, testing code, and the effectiveness of their security assurance processes. To assess whether the product is well written and maintained you can break this down into a few questions:
 	1. Does the author or vendor follow secure coding practices?
 	2. Do they conduct vulnerability scans and penetration tests on their product?
