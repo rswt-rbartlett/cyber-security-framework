@@ -36,4 +36,4 @@ Detecting phishing emails often relies on analysis of the different email artifa
 These are extremely difficult to detect using custom rules, but your anti-phishing protection vendor (Microsoft, Mimecast etc.) should be tracking these and using the file has for the image to detect and block or retrospectively remove phishing emails/block links.
 
 ## Advice for everyone
-Normally an email contains text and links.  When you hover over text you get the text select mouse pointer <img src="./select-text-pointer.png">, and when you hover over a link you get the hand mouse pointer <img src="./link-select-pointer.png" height="10">.  If you never see the text select mouse pointer, the email is just one image with a link, and should be reported to IT.
+Normally an email contains text and links.  When you hover over text you get the text select mouse pointer <img src="./select-text-pointer.png">, and when you hover over a link you get the hand mouse pointer <img src="./link-select-pointer.png" height="30">.  If you never see the text select mouse pointer, the email is just one image with a link, and should be reported to IT.
