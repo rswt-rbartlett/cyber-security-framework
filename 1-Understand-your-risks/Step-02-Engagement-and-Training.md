@@ -69,5 +69,6 @@ Security awareness material can be a complement to initial or refresher training
 14. 31st May, 2023 [Zyxel and WordPress vulnerabilities and the end of E2 Office 365 licenses](./awareness/zyxel-and-wordpress-vulnerabilities-and-the-end-of-e2-office-365-licenses.md) (Technical Staff)
 15. 5th June, 2023 [Security Alert for any Trusts using MOVEit file transfer software](./awareness/security-alert-for-any-trusts-using-moveit-file-transfer-software.md) (Technical Staff and Managers)
 16. 13th July, 2023 [SonicWall, information security alert service and Windows Server 2012 end of life](./awareness/sonicwall-information-security-alert-service-and-windows-server-2012-end-of-life.md) (Technical Staff)
+17. 19th September, 2023 [New Phishing Attack Techniques](./awareness/new-phishing-attack-techniques.md) (Technical Staff)
 
 ## Return to [Step 1. Risk management](./Step-01-Risk-Management.md) or continue to [Step 3. Asset management](./Step-03-Asset-Management.md)
