@@ -29,8 +29,8 @@ Having captured important security events in logs on your computers, servers and
 
 There are many products on the market which claim to fulfil this requirement, but unfortunately many of those require that the devices you are collecting logs from are on your internal (office) network, or have a Virtual Private Network (VPN) connection open.  In a hybrid working this is frequently not the case and therefore many of these systems are no longer fit for purpose.  Below are two options for log aggregation, one free and one paid.
 
-### National Cyber Security Centre (NCSC) Logging Made Easy (the free option)
-The NCSC has published a guide and configuration files to build a log aggregation tool based on free and open source software.  It is non-trivial to configure and would require a skilled IT person to setup, and would also require sufficient computing resource to store and process the logs.  It is however free of any up front capital or ongoing subscription cost, and is highly effective.  You can find the guide to setting this up on [Github](https://github.com/ukncsc/lme).
+### Cybersecurity and Infrastructure Security Agency (CISA) Logging Made Easy (the free option)
+The CISA has published a guide and configuration files to build a log aggregation tool based on free and open source software (originally released to the NCSC and then adopted by CISA).  It is non-trivial to configure and would require a skilled IT person to setup, and would also require sufficient computing resource to store and process the logs.  It is however free of any up front capital or ongoing subscription cost, and is highly effective.  You can find the the solution at [Github](https://github.com/cisagov/LME/blob/main/README.md).
 
 ### Azure Sentinel (the paid option)
 This option is available to any Trust who has a Microsoft 365 or Azure subscription.  Details are at https://azure.microsoft.com/en-gb/products/microsoft-sentinel/, and you should approach your Cloud Solution Provider for pricing.
