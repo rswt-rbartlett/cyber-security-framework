@@ -7,8 +7,7 @@ The security of systems is largely a product of how they are configured (not som
 
 ## Reduce attack surface
 Your 'attack surface' is what an attacker can see, either from the public internet, or from a compromised device inside your network.  Like most security decisions, reducing your attack surface is a balance between security and usability.  Beware implementing technical controls which make it too difficult for staff to do their job, as they will implement their own workarounds which will increase security risk.
-- Implement boundary firewalls and internet gateways
-### Cyber Essentials Firewalls A4.1-4.12
+- Implement boundary firewalls and internet gateways ### Cyber Essentials Firewalls A4.1-4.12
 	- All routers and firewalls should prevent any direct access to staff computers inside your network.
 	- For smaller offices the router provided by your ISP may be sufficient.
 	- Larger offices with more staff or services which need to be remotely accessible may need a firewall with more functionality and capacity.
