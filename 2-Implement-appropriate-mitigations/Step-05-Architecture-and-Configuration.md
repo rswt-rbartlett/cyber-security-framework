@@ -6,8 +6,9 @@
 The security of systems is largely a product of how they are configured (not some inherent property) so this is a vital consideration for Trusts of all size.  Below are the most important steps to consider, including known working solutions and recommended configurations.  It is important to note that these recommendations will change over time as both the technology and attackers tactics change, so it is important to review and update your configuration regularly.  To support Trusts, when there are important changes to this section all framework subscribers will be automatically notified so they can take appropriate steps.
 
 ## Reduce attack surface
-### Cyber Essentials Firewalls A4.1-4.12
 Your 'attack surface' is what an attacker can see, either from the public internet, or from a compromised device inside your network.  Like most security decisions, reducing your attack surface is a balance between security and usability.  Beware implementing technical controls which make it too difficult for staff to do their job, as they will implement their own workarounds which will increase security risk.
+> [!NOTE]
+> The following guidelines support compliance with the Cyber Essentials **Firewalls** requirements
 - Implement boundary firewalls and internet gateways
 	- All routers and firewalls should prevent any direct access to staff computers inside your network.
 	- For smaller offices the router provided by your ISP may be sufficient.
@@ -69,7 +70,8 @@ In addition to DMARC you should also implement specific anti-phishing controls i
 You should either monitor Quarantine and release 'false positive' (genuine messages blocked in error) yourself, or allow staff to release their own messages. What staff are allowed to release themselves is defined in the [Quarantine Policies](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/quarantine-policies?view=o365-worldwide).
 
 ## Install effective endpoint protection 
-### Cyber Essentials Malware Protection A8.1-8.5
+> [!NOTE]
+> The following guidelines support compliance with the Cyber Essentials **Malware Protection** requirements
 
 Endpoint Protection and Response (EDR) is critical to protecting from ransomware attacks. As attacker tactics have developed some anti-virus solutions have become less effective, proving relatively easy to bypass, and failing to detect when an attack is in progress.  For this reason, I recommend one of the following security solutions in order of preference.  These recommendations are based on a combination of feedback from Cyber Security Incident Response professionals and contacts in the Insurance sector.  They are not based on Gartner Magic Quadrant reports (though there is some correlation).
 
