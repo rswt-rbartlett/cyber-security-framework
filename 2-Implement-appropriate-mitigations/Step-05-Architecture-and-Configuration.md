@@ -6,8 +6,9 @@
 The security of systems is largely a product of how they are configured (not some inherent property) so this is a vital consideration for Trusts of all size.  Below are the most important steps to consider, including known working solutions and recommended configurations.  It is important to note that these recommendations will change over time as both the technology and attackers tactics change, so it is important to review and update your configuration regularly.  To support Trusts, when there are important changes to this section all framework subscribers will be automatically notified so they can take appropriate steps.
 
 ## Reduce attack surface
+### Cyber Essentials Firewalls A4.1-4.12
 Your 'attack surface' is what an attacker can see, either from the public internet, or from a compromised device inside your network.  Like most security decisions, reducing your attack surface is a balance between security and usability.  Beware implementing technical controls which make it too difficult for staff to do their job, as they will implement their own workarounds which will increase security risk.
-- Implement boundary firewalls and internet gateways ### Cyber Essentials Firewalls A4.1-4.12
+- Implement boundary firewalls and internet gateways
 	- All routers and firewalls should prevent any direct access to staff computers inside your network.
 	- For smaller offices the router provided by your ISP may be sufficient.
 	- Larger offices with more staff or services which need to be remotely accessible may need a firewall with more functionality and capacity.
