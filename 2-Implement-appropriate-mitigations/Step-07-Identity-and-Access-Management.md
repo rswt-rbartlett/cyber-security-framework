@@ -21,8 +21,9 @@ You will already have accounts which allow access to computers, email, files and
 - Even if you only have one person in a group it is easier to assign permissions to the group than it is to assign it to a member of staff and have to assign them all again when they leave and are replaced. That way you assign the permissions once, and just remove the existing staff member and add their successor.
 
 ## Maintain your identities
+> Cyber Essentials **User Access Control** requirements (questions A7.1-7.4)
 - Have a starter/mover/leaver process.  This should be integrated with your existing HR processes.
-	- Create a new named account for each member of staff, volunteer, Trustee or contractor.
+	- Create a new named account for each member of staff, volunteer, Trustee or contractor and ensure they set a unique password.
 	- Put the account in the group/s to provide access to the computers, files, email and applications to do fulfil their role.
 	- If someone changes roles remove them from all groups and re-add them to the groups which reflect their new role.
 	- When someone leaves remove them from all groups (which should revoke access to most services and data)
@@ -33,6 +34,7 @@ You will already have accounts which allow access to computers, email, files and
 	- **Note**: This is particularly important for those with a privileged access (e.g. those able to administer your IT systems or those with access to financial systems who can authorise payments or transfer funds).
 
 ## User friendly password policy
+> Cyber Essentials **User Access Control** requirements (questions A7.10, 7.11, 7.12, )
 Credentials in the form of a username and password are still the most common method of granting staff access to files, data and systems.  Attacks on organisations often start with credentials either being stolen or guessed, because [contemporary password policies](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach#tip5-password-collection) unintentionally led staff to create bad guessable passwords.  Update and improve your password policy (or create a new password policy) by following the guidelines below.
 - Don't set password complexity requirement.  These lead to predictable letter/number substitution which attackers will use when trying to guess passwords.  It also makes it harder for staff to remember their password.
 - Don't automatically expire passwords. This also leads to predictable password variants (e.g. adding a number of season/year at the end of the password) which attackers will also use when attacking accounts.
@@ -44,6 +46,7 @@ Password security is best achieved by a combination of:
 	- [Active Directory Account Lockout](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc737614(v=ws.10)#configuring-account-lockout-for-local-users)
 
 ## Implement Multi-Factor Authentication (MFA) for all remote access
+> Cyber Essentials **User Access Control** requirements (questions A7.10, 7.14, 7.17)
 > Cyber Essentials **Secure Configuration** requirements (question A5.5)
 Due to the ease with which account passwords can be guessed, stolen, intercepted or revealed in data breaches they are no longer an effective or appropriate control on their own, especially for sensitive data including personally identifiable information.  Therefore username and password should be supplemented by an additional factor in order to secure your identities, systems and data.
 > [!IMPORTANT]
@@ -66,6 +69,7 @@ When you require MFA is a balance of usability vs security.  If you require MFA 
 - for a privileged account (e.g. a Global Administrator account)
 
 ## Separate admin accounts and protect them
+> Cyber Essentials **User Access Control** requirements (questions A7.5, 7.6, 7.7, 7.9, 7.16)
 The primary target for an attacker once they have gained access to a network is privileged accounts, accounts with the highest levels of access they can use to steal or encrypt data.  Those accounts should be afforded a greater level of protection than regular staff accounts and should be used with a great deal of caution.  Follow the guidelines below to reduce the risk of privileged accounts being compromised.
 - Only use top level accounts when absolutely necessary. As far as possible delegate privileges needed more frequently to lower level (but still privileged) accounts, for example the named accounts described below.
 - Have separate named accounts for admin and day to day use.  **Never** delegate administrative privileges to the accounts your IT team use every day (for email and web browsing for example).  Create each member of staff who needs privileged access a separate named account specifically for them, and have them only use it when that level of access is required.
