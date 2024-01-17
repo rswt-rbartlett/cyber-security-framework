@@ -2,7 +2,7 @@
 
 # Understand your risks
 # Step 3. Asset management 
-> > Cyber Essentials consideration (questions A2.4-2.9)
+> > Cyber Essentials consideration (questions A2.4-2.9, A6.2.1-6.2.4)
 
 You can only protect what you know exists.  If a laptop, server or a directory full of personal data is forgotten then it won't be protected, and could be the cause of a serious cyber security breach.  You should have a record of the following different types of asset.
 
