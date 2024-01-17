@@ -19,8 +19,8 @@ Your 'attack surface' is what an attacker can see, either from the public intern
 ### Harden your servers and end user devices
 - 'Hardening' is the term used to describe making a server or computer more secure by removing or disabling unwanted components.  **Caution: this should only be done by technically qualified staff**.
 - An easy 'shortcut' to hardening Microsoft Windows and Windows Server systems is to apply Microsoft Windows Security Baselines, which can be done using:
-  - The [Microsoft Security Compliance Toolkit](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) which can be downloaded from the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=55319).
-  - Microsoft Endpoint Manager Intune [MDM Security Baselines](https://learn.microsoft.com/en-us/mem/intune/protect/security-baseline-settings-mdm-all?pivots=mdm-november-2021)
+	- The [Microsoft Security Compliance Toolkit](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) which can be downloaded from the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=55319).
+	- Microsoft Endpoint Manager Intune [MDM Security Baselines](https://learn.microsoft.com/en-us/mem/intune/protect/security-baseline-settings-mdm-all?pivots=mdm-november-2021)
 	- These baseline configurations can be applied by your internal IT team, or you can ask your external IT provider to apply them on your behalf.
 - An additional Microsoft solution to 'harden' a system is to employ [Attack Surface Reduction](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction?view=o365-worldwide) in Windows Defender (which comes free with Windows 10 and 11).  If you deploy Defender for Endpoint you can employ more protective features.
 - If you decide not to apply the Windows Security Baselines at a minimum you should configure Windows systems as follows:
