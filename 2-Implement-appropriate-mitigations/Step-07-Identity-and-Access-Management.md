@@ -49,9 +49,7 @@ Password security is best achieved by a combination of:
 	- [Active Directory Account Lockout](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc737614(v=ws.10)#configuring-account-lockout-for-local-users)
 
 ## Implement Multi-Factor Authentication (MFA) for all remote access
-> Cyber Essentials **User Access Control** requirements (questions A7.10, 7.14, 7.17)
-
-> Cyber Essentials **Secure Configuration** requirements (question A5.5)
+> Cyber Essentials **User Access Control** requirements (questions A7.10, 7.14, 7.17) and Cyber Essentials **Secure Configuration** requirements (question A5.5)
 
 Due to the ease with which account passwords can be guessed, stolen, intercepted or revealed in data breaches they are no longer an effective or appropriate control on their own, especially for sensitive data including personally identifiable information.  Therefore username and password should be supplemented by an additional factor in order to secure your identities, systems and data.
 > [!IMPORTANT]
