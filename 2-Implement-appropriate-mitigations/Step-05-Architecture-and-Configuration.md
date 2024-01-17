@@ -8,30 +8,31 @@ The security of systems is largely a product of how they are configured (not som
 ## Reduce attack surface
 Your 'attack surface' is what an attacker can see, either from the public internet, or from a compromised device inside your network.  Like most security decisions, reducing your attack surface is a balance between security and usability.  Beware implementing technical controls which make it too difficult for staff to do their job, as they will implement their own workarounds which will increase security risk.
 > [!NOTE]
-> The firewall guidelines below enable compliance with the Cyber Essentials **Firewalls** requirements (questions A4.1, A4.1.1, A4.5 
-- Implement boundary firewalls and internet gateways
-	- All routers and firewalls should prevent any direct access to staff computers inside your network.
-	- For smaller offices the router provided by your ISP may be sufficient.
-	- Larger offices with more staff or services which need to be remotely accessible may need a firewall with more functionality and capacity.
-	- Check that your router/firewall allows you to control network traffic coming in and going out of your network, and allows you to protect any remote access with Multi-Factor Authentication.
-	- Ensure your firewall and routers are configured only to expose to the internet those services which are needed.
-- Harden your servers and end user devices
-	- 'Hardening' is the term used to describe making a server or computer more secure by removing or disabling unwanted components.  **Caution: this should only be done by technically qualified staff**.
-	- An easy 'shortcut' to hardening Microsoft Windows and Windows Server systems is to apply Microsoft Windows Security Baselines, which can be done using:
-	  - The [Microsoft Security Compliance Toolkit](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) which can be downloaded from the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=55319).
-	  - Microsoft Endpoint Manager Intune [MDM Security Baselines](https://learn.microsoft.com/en-us/mem/intune/protect/security-baseline-settings-mdm-all?pivots=mdm-november-2021)
-		- These baseline configurations can be applied by your internal IT team, or you can ask your external IT provider to apply them on your behalf.
-	- An additional Microsoft solution to 'harden' a system is to employ [Attack Surface Reduction](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction?view=o365-worldwide) in Windows Defender (which comes free with Windows 10 and 11).  If you deploy Defender for Endpoint you can employ more protective features.
-	- If you decide not to apply the Windows Security Baselines at a minimum you should configure Windows systems as follows:
-	  - Do not allow staff administrative access, or if they **must** have administrative access give them a separate account for that purpose and have them use a normal account for day to day activities.
-	  - Set a unique strong password on any accounts with administrative privileges (do not set the same Administrator passwords for all your PCs and laptops)
-	  - Disable remote access and only turn it on when needed, and disable it afterwards.
-	  - [Log,](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.2#enabling-script-block-logging) and if not already set (this is the default for Windows clients) [restrict](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2#restricted) access to PowerShell (PowerShell is commonly used by ransomware groups).
-	  - Restrict access to other executables commonly used by attackers (e.g. the [Microsoft recommended block rules](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)).
-	- For any publically accessible system where you are responsible for the platform/operating system (e.g. a router or firewall at your office or a web server you maintain) technically qualified staff should take the following approach:
-	  - Ensure only the services you need are accessible by stopping or disabling the services you don't need (e.g. mail or file transfer services) or blocking them using a firewall
-	  - Disable or change the password for any default accounts, especially for which passwords are publically documented (e.g. in vendor manuals on the internet).
-	  - Restrict access to any management interface (e.g. the management port for you office router) either by using access lists to restrict access to specific IP addresses, or disabling public access completely which would require the administrator to be in the office or connected via a Virtual Private Network (VPN) before they can manage the system.
+> The firewall guidelines below enable compliance with the Cyber Essentials **Firewalls** requirements (questions A4.1, A4.1.1 & A4.5)
+### Implement boundary firewalls and internet gateways
+- All routers and firewalls should prevent any direct access to staff computers inside your network.
+- For smaller offices the router provided by your ISP may be sufficient.
+- Larger offices with more staff or services which need to be remotely accessible may need a firewall with more functionality and capacity.
+- Check that your router/firewall allows you to control network traffic coming in and going out of your network, and allows you to protect any remote access with Multi-Factor Authentication.
+- Ensure your firewall and routers are configured only to expose to the internet those services which are needed.
+
+### Harden your servers and end user devices
+- 'Hardening' is the term used to describe making a server or computer more secure by removing or disabling unwanted components.  **Caution: this should only be done by technically qualified staff**.
+- An easy 'shortcut' to hardening Microsoft Windows and Windows Server systems is to apply Microsoft Windows Security Baselines, which can be done using:
+  - The [Microsoft Security Compliance Toolkit](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) which can be downloaded from the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=55319).
+  - Microsoft Endpoint Manager Intune [MDM Security Baselines](https://learn.microsoft.com/en-us/mem/intune/protect/security-baseline-settings-mdm-all?pivots=mdm-november-2021)
+	- These baseline configurations can be applied by your internal IT team, or you can ask your external IT provider to apply them on your behalf.
+- An additional Microsoft solution to 'harden' a system is to employ [Attack Surface Reduction](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction?view=o365-worldwide) in Windows Defender (which comes free with Windows 10 and 11).  If you deploy Defender for Endpoint you can employ more protective features.
+- If you decide not to apply the Windows Security Baselines at a minimum you should configure Windows systems as follows:
+  - Do not allow staff administrative access, or if they **must** have administrative access give them a separate account for that purpose and have them use a normal account for day to day activities.
+  - Set a unique strong password on any accounts with administrative privileges (do not set the same Administrator passwords for all your PCs and laptops)
+  - Disable remote access and only turn it on when needed, and disable it afterwards.
+  - [Log,](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.2#enabling-script-block-logging) and if not already set (this is the default for Windows clients) [restrict](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2#restricted) access to PowerShell (PowerShell is commonly used by ransomware groups).
+  - Restrict access to other executables commonly used by attackers (e.g. the [Microsoft recommended block rules](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)).
+- For any publically accessible system where you are responsible for the platform/operating system (e.g. a router or firewall at your office or a web server you maintain) technically qualified staff should take the following approach:
+  - Ensure only the services you need are accessible by stopping or disabling the services you don't need (e.g. mail or file transfer services) or blocking them using a firewall
+  - Disable or change the password for any default accounts, especially for which passwords are publically documented (e.g. in vendor manuals on the internet).
+  - Restrict access to any management interface (e.g. the management port for you office router) either by using access lists to restrict access to specific IP addresses, or disabling public access completely which would require the administrator to be in the office or connected via a Virtual Private Network (VPN) before they can manage the system.
 
 ## Make it harder to spoof your email domain
 
