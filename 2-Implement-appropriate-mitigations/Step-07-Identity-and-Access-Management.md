@@ -4,6 +4,8 @@
 # Step 7. Identity and access management
 
 ## Decide who needs access to what, and how
+> Cyber Essentials **User Access Control** requirements (question A7.4)
+
 You will already have accounts which allow access to computers, email, files and applications.  You should develop a process which determimes:
 1. Who gets an account, 
 2. How you decide what they need access to, 
@@ -21,7 +23,7 @@ You will already have accounts which allow access to computers, email, files and
 - Even if you only have one person in a group it is easier to assign permissions to the group than it is to assign it to a member of staff and have to assign them all again when they leave and are replaced. That way you assign the permissions once, and just remove the existing staff member and add their successor.
 
 ## Maintain your identities
-> Cyber Essentials **User Access Control** requirements (questions A7.1-7.4)
+> Cyber Essentials **User Access Control** requirements (questions A7.1-7.3)
 - Have a starter/mover/leaver process.  This should be integrated with your existing HR processes.
 	- Create a new named account for each member of staff, volunteer, Trustee or contractor and ensure they set a unique password.
 	- Put the account in the group/s to provide access to the computers, files, email and applications to do fulfil their role.
