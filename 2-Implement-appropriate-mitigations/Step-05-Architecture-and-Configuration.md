@@ -71,8 +71,7 @@ In addition to DMARC you should also implement specific anti-phishing controls i
 You should either monitor Quarantine and release 'false positive' (genuine messages blocked in error) yourself, or allow staff to release their own messages. What staff are allowed to release themselves is defined in the [Quarantine Policies](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/quarantine-policies?view=o365-worldwide).
 
 ## Install effective endpoint protection 
-> [!NOTE]
-> The endpoint protection guidelines below enable compliance with the Cyber Essentials **Malware Protection** requirements
+> Cyber Essentials **Malware protection** requirements (question 8.1)
 
 Endpoint Protection and Response (EDR) is critical to protecting from ransomware attacks. As attacker tactics have developed some anti-virus solutions have become less effective, proving relatively easy to bypass, and failing to detect when an attack is in progress.  For this reason, I recommend one of the following security solutions in order of preference.  These recommendations are based on a combination of feedback from Cyber Security Incident Response professionals and contacts in the Insurance sector.  They are not based on Gartner Magic Quadrant reports (though there is some correlation).
 
