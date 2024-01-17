@@ -9,13 +9,14 @@ The security of systems is largely a product of how they are configured (not som
 Your 'attack surface' is what an attacker can see, either from the public internet, or from a compromised device inside your network.  Like most security decisions, reducing your attack surface is a balance between security and usability.  Beware implementing technical controls which make it too difficult for staff to do their job, as they will implement their own workarounds which will increase security risk.
 ### Implement boundary firewalls and internet gateways
 > Cyber Essentials **Firewalls** requirements (questions A4.1, A4.1.1 & A4.5)
-- All routers and firewalls should prevent any direct access to staff computers inside your network.
+- All routers and firewalls should prevent any direct access to systems inside your network unless explicitly permitted.
 - For smaller offices the router provided by your ISP may be sufficient.
 - Larger offices with more staff or services which need to be remotely accessible may need a firewall with more functionality and capacity.
 - Check that your router/firewall allows you to control network traffic coming in and going out of your network, and allows you to protect any remote access with Multi-Factor Authentication.
 - Ensure your firewall and routers are configured only to expose to the internet those services which are needed.
 
 ### Harden your servers and end user devices
+> Cyber Essentials **Firewalls** requirements (questions A4.2, 4.8 & 4.10)
 - 'Hardening' is the term used to describe making a server or computer more secure by removing or disabling unwanted components.  **Caution: this should only be done by technically qualified staff**.
 - An easy 'shortcut' to hardening Microsoft Windows and Windows Server systems is to apply Microsoft Windows Security Baselines, which can be done using:
 	- The [Microsoft Security Compliance Toolkit](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) which can be downloaded from the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=55319).
