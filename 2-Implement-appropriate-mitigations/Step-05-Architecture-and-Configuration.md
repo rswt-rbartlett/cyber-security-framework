@@ -8,7 +8,7 @@ The security of systems is largely a product of how they are configured (not som
 ## Reduce attack surface
 Your 'attack surface' is what an attacker can see, either from the public internet, or from a compromised device inside your network.  Like most security decisions, reducing your attack surface is a balance between security and usability.  Beware implementing technical controls which make it too difficult for staff to do their job, as they will implement their own workarounds which will increase security risk.
 > [!NOTE]
-> The following guidelines support compliance with the Cyber Essentials **Firewalls** requirements
+> The firewall guidelines below enable compliance with the Cyber Essentials **Firewalls** requirements (questions A4.1, A4.1.1, A4.5 
 - Implement boundary firewalls and internet gateways
 	- All routers and firewalls should prevent any direct access to staff computers inside your network.
 	- For smaller offices the router provided by your ISP may be sufficient.
@@ -71,7 +71,7 @@ You should either monitor Quarantine and release 'false positive' (genuine messa
 
 ## Install effective endpoint protection 
 > [!NOTE]
-> The following guidelines support compliance with the Cyber Essentials **Malware Protection** requirements
+> The endpoint protection guidelines below enable compliance with the Cyber Essentials **Malware Protection** requirements
 
 Endpoint Protection and Response (EDR) is critical to protecting from ransomware attacks. As attacker tactics have developed some anti-virus solutions have become less effective, proving relatively easy to bypass, and failing to detect when an attack is in progress.  For this reason, I recommend one of the following security solutions in order of preference.  These recommendations are based on a combination of feedback from Cyber Security Incident Response professionals and contacts in the Insurance sector.  They are not based on Gartner Magic Quadrant reports (though there is some correlation).
 
