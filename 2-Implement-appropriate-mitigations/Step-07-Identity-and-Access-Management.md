@@ -51,6 +51,7 @@ Password security is best achieved by a combination of:
 ## Implement Multi-Factor Authentication (MFA) for all remote access
 > Cyber Essentials **User Access Control** requirements (questions A7.10, 7.14, 7.17)
 > Cyber Essentials **Secure Configuration** requirements (question A5.5)
+
 Due to the ease with which account passwords can be guessed, stolen, intercepted or revealed in data breaches they are no longer an effective or appropriate control on their own, especially for sensitive data including personally identifiable information.  Therefore username and password should be supplemented by an additional factor in order to secure your identities, systems and data.
 > [!IMPORTANT]
 > If a system can be accessed from the internet (including cloud services like Outlook 365 or Gmail and services published from your network like VPN or Remote Desktop Gateway) you should require Multi-Factor Authentication (also known as '2-Step Verification') to access it.  This should be considered a **baseline minimum security requirement for all Trusts**.
@@ -73,6 +74,7 @@ When you require MFA is a balance of usability vs security.  If you require MFA 
 
 ## Separate admin accounts and protect them
 > Cyber Essentials **User Access Control** requirements (questions A7.5, 7.6, 7.7, 7.9, 7.16)
+
 The primary target for an attacker once they have gained access to a network is privileged accounts, accounts with the highest levels of access they can use to steal or encrypt data.  Those accounts should be afforded a greater level of protection than regular staff accounts and should be used with a great deal of caution.  Follow the guidelines below to reduce the risk of privileged accounts being compromised.
 - Only use top level accounts when absolutely necessary. As far as possible delegate privileges needed more frequently to lower level (but still privileged) accounts, for example the named accounts described below.
 - Have separate named accounts for admin and day to day use.  **Never** delegate administrative privileges to the accounts your IT team use every day (for email and web browsing for example).  Create each member of staff who needs privileged access a separate named account specifically for them, and have them only use it when that level of access is required.
