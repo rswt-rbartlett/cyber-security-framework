@@ -44,7 +44,9 @@ Password security is best achieved by a combination of:
 	- [Active Directory Account Lockout](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc737614(v=ws.10)#configuring-account-lockout-for-local-users)
 
 ## Implement Multi-Factor Authentication (MFA) for all remote access
+> Cyber Essentials **Secure Configuration** requirements (question A5.5)
 Due to the ease with which account passwords can be guessed, stolen, intercepted or revealed in data breaches they are no longer an effective or appropriate control on their own, especially for sensitive data including personally identifiable information.  Therefore username and password should be supplemented by an additional factor in order to secure your identities, systems and data.
+> [!IMPORTANT]
 > If a system can be accessed from the internet (including cloud services like Outlook 365 or Gmail and services published from your network like VPN or Remote Desktop Gateway) you should require Multi-Factor Authentication (also known as '2-Step Verification') to access it.  This should be considered a **baseline minimum security requirement for all Trusts**.
 
 Multi-factor authentication is not difficult or expensive to setup on modern systems including cloud based services, networking equipment or applications.  Below are instructions on how to setup MFA on commonly used cloud services and VPN systems.
