@@ -36,7 +36,8 @@ You will already have accounts which allow access to computers, email, files and
 	- **Note**: This is particularly important for those with a privileged access (e.g. those able to administer your IT systems or those with access to financial systems who can authorise payments or transfer funds).
 
 ## User friendly password policy
-> Cyber Essentials **User Access Control** requirements (questions A7.10, 7.11, 7.12, )
+> Cyber Essentials **User Access Control** requirements (questions A7.10-7.12)
+
 Credentials in the form of a username and password are still the most common method of granting staff access to files, data and systems.  Attacks on organisations often start with credentials either being stolen or guessed, because [contemporary password policies](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach#tip5-password-collection) unintentionally led staff to create bad guessable passwords.  Update and improve your password policy (or create a new password policy) by following the guidelines below.
 - Don't set password complexity requirement.  These lead to predictable letter/number substitution which attackers will use when trying to guess passwords.  It also makes it harder for staff to remember their password.
 - Don't automatically expire passwords. This also leads to predictable password variants (e.g. adding a number of season/year at the end of the password) which attackers will also use when attacking accounts.
