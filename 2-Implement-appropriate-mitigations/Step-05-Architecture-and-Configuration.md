@@ -85,6 +85,8 @@ This is not a statement that other endpoint protection products are not effectiv
 > Whatever tool you use it is vital that **someone is monitoring events and alerts**, and that the product is configured as per the manufacturers recommendations. 
 
 ## Whitelist applications
+> Cyber Essentials **Malware protection** requirements (question 8.1, 8.4 & 8.5)
+
 A very strong defense against ransomware and any malicious software is to whitelist applications, which means only programs which you have already approved can run on the system.  This requires more up front investment in time to configure, and it can create an overhead to continually update and maintain the approved software list, but it can be extremely effective when other defenses have been breached.  This step is not recommended for Trusts unless they have the resource available to deploy it.
 
 Whitelisting applications on Windows can be done for free using [Windows Defender Application Control](https://learn.microsoft.com/en-gb/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control), a native part of Windows 10 build 1909+, Windows 11 and Windows Server 2016 onwards.
