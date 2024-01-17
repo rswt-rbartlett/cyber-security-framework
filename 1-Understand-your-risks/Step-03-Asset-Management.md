@@ -2,6 +2,8 @@
 
 # Understand your risks
 # Step 3. Asset management 
+> [!NOTE]
+> The asset management guidelines below enable compliance with Cyber Essentials (questions A2.4-2.9)
 
 You can only protect what you know exists.  If a laptop, server or a directory full of personal data is forgotten then it won't be protected, and could be the cause of a serious cyber security breach.  You should have a record of the following different types of asset.
 
