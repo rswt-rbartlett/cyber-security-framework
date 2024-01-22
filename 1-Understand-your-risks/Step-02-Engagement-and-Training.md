@@ -39,7 +39,7 @@ All staff should be given cyber security training during their probation, and id
 
 You may already have a package of training courses which includes a cyber security awareness course, if not below are two free courses which have been evaluated and assessed as suitable.  The National Cyber Security Centre (NCSC) course can also be modified to fit your purposes and hosted on your own Learning Management System (LMS).
 
-- [NCSC Top Tips for Staff](https://www.ncsc.gov.uk/training/top-tips-for-staff-scorm-v2/scormcontent/index.html#/)
+- [NCSC Top Tips for Staff](https://www.ncsc.gov.uk/training/v4/Top+tips/Web+package/content/index.html#/)
 - [Amazon Cyber Security Awareness training](https://learnsecurity.amazon.com/en/index.html)
 
 ## Security awareness
