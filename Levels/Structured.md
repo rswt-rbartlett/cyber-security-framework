@@ -2,7 +2,7 @@
 
 # Structured Level 
 
-Below are the requirements (28) for Trusts which use a small number of cloud services and have no on-premises infrastructure.  These build on the Foundations requirements and add those appropriate to a Trust with more resources and a slightly more complex environment.  Again these require no significant financial investment, and the investment in time should be proportionate to the size of the Trust.  To highlight the additional measures in this maturity level they are appended with +.
+Below are the requirements (29) for Trusts which use a small number of cloud services and have no on-premises infrastructure.  These build on the Foundations requirements and add those appropriate to a Trust with more resources and a slightly more complex environment.  Again these require no significant financial investment, and the investment in time should be proportionate to the size of the Trust.  To highlight the additional measures in this maturity level they are appended with +.
 
 -   Step 1. Risk management
     -   [Integrating Cyber Risk Management](/1-Understand-your-risks/Step-01-Risk-Management.md#integrating-cyber-risk-management) +
