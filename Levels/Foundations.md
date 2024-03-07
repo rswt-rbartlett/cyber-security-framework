@@ -5,17 +5,13 @@
 Below are the requirements (19) which all Trusts should be able to meet.  These are either foundations for the other levels or particularly vital controls which should be considered a minimum requirement.  None of these require any significant financial investment, and support is available to support Trusts implementation.
 
 -   Step 1. Risk management
-    - [Integrating Cyber Risk Management](/1-Understand-your-risks/Step-01-Risk-Management.md#integrating-cyber-risk-management)
-	- [Define Scope](/1-Understand-your-risks/Step-01-Risk-Management.md#define-scope)
 -   Step 2. Engagement and training
     - [Top down support](/1-Understand-your-risks/Step-02-Engagement-and-Training.md#top-down-support)
-	- [Information Security Policies](/1-Understand-your-risks/Step-02-Engagement-and-Training.md#information-security-policies)
     - [Security awareness](/1-Understand-your-risks/Step-02-Engagement-and-Training.md#security-awareness)
 -   Step 3. Asset management
     - [Technology assets](/1-Understand-your-risks/Step-03-Asset-Management.md#technology-assets)
     - [Data assets](/1-Understand-your-risks/Step-03-Asset-Management.md#data-assets)
 -   Step 4. Supply chain security
-    - [Embed security into procurement](/1-Understand-your-risks/Step-04-Supply-Chain-Security.md#embed-security-into-procurement)
 -   Step 5. Architecture and configuration
     - [Make it harder to spoof your email domain](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#make-it-harder-to-spoof-your-email-domain)
     - [Install effective endpoint protection](/2-Implement-appropriate-mitigations/Step-05-Architecture-and-Configuration.md#install-effective-endpoint-protection)
@@ -30,6 +26,4 @@ Below are the requirements (19) which all Trusts should be able to meet.  These 
 	- [Protect data with encryption](/2-Implement-appropriate-mitigations/Step-08-Data-Security.md#protect-data-with-encryption)
 	- [Backup your data](/2-Implement-appropriate-mitigations/Step-08-Data-Security.md#backup-your-data)
 -   Step 9. Logging and monitoring
-    - [Log what matters](/3-Prepare-for-incidents/Step-09-Logging-and-monitoring.md#log-what-matters)
 -   Step 10. Incident management
-    - [Develop an Incident Response Plan](/3-Prepare-for-incidents/Step-10-Incident-management.md#develop-an-incident-response-plan)
