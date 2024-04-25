@@ -31,6 +31,24 @@ To help you create your process a template based on the RSWT Incident Response P
 
 > **IMPORTANT: You should keep an up to date copy of your incident response plan somewhere safe which is not dependent on your IT systems.  For example paper copies at the homes of those staff who are in the wider Incident Response Team, and a copy held in your IT provider's environment.**
 
+## Triggering an Incident
+There is a difference between a security event, an alert and a security incident.
+- An event is when something in your systems changes (e.g. you have received a phishing email)
+- An alert is a notification about an event (e.g. a warning that a phishing email was detected)
+- An incident is when an event or series of events has had a negative impact on your organisation (e.g. someone has fallen for a phishing email and attackers have accessed their mailbox).
+
+There are some alerts which you should **always** follow up (by your own IT staff or ask your third party provider). These alerts could be indicative of an active ‘hands on keyboard’ attack and require investigation, even if (for example) your antivirus system says it has eliminated the threat.
+
+Alerts to investigate, in order of impact, highest first, are those which mention;
+1.	Ransomware
+2.	LSASS credential dumping
+3.	Cobaltstrike
+4.	Infostealers
+5.	Trojans or rootkits
+6.	Tamper protection (antivirus or endpoint protection disabled)
+7.	Clicks on a phishing or 'adversary-in-the-middle' website.
+
+
 ## Test your Incident Response plan
 The first time you invoke your incident response plan will be a high stress scenario, which is a bad time to read it for the first time, and an even worse time to find ommissions, mistakes or mistaken assumptions.  Therefore it's vital that you test your incident response plan to make sure it works, and everyone understands their role.
 
