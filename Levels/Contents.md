@@ -45,5 +45,6 @@
     -   [Collect and protect logs](/3-Prepare-for-incidents/Step-09-Logging-and-monitoring.md#collect-and-protect-logs)
 - [Step 10. Incident management](/3-Prepare-for-incidents/Step-10-Incident-management.md)
     -   [Develop an Incident Response Plan](/3-Prepare-for-incidents/Step-10-Incident-management.md#develop-an-incident-response-plan)
+	-	[Triggering an Incident](/3-Prepare-for-incidents/Step-10-Incident-management.md#triggering-an-incident)
     -   [Test your Incident Response Plan](/3-Prepare-for-incidents/Step-10-Incident-management.md#test-your-incident-response-plan)
     -   [Tools for IT](/3-Prepare-for-incidents/Step-10-Incident-management.md#tools-for-it) 
