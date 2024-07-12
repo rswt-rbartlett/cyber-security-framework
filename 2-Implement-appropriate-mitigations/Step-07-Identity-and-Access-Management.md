@@ -71,6 +71,26 @@ When you require MFA is a balance of usability vs security.  If you require MFA 
 - risky based on threat intelligence indicators (for example from an IP Address from which logon attempts to multiple accounts has been detected)
 - for a privileged account (e.g. a Global Administrator account)
 
+## Restrict access by location
+Whilst the geopolitical causes of international cyber-crime largely go against UK organisations there is one upside to almost all attacks originating from outside the UK.  If you restrict sign-in to your publicly accessible cloud-based services (e.g. Microsoft Azure and Microsoft 365) to UK only locations, you have instantly stopped almost all attacks, or increased the cost sufficiently to deter financially motivated opportunistic cyber-criminals. This works well for the Wildlife Trusts because the bulk of staff work solely from the UK. Exceptions can be added to enable working whilst travelling for those staff who require that.
+
+In Microsoft services restriction access by location is done using Microsoft Azure Conditional Access Policies, the guidelines below will help you reduce the risk of account compromise, without undue disruption to your staff.
+
+- Setup a [Conditional Access Policy](https://learn.microsoft.com/en-us/entra/identity/conditional-access/howto-conditional-access-policy-location) which blocks access from outside the UK, and apply this to all staff. Exclude a security group (e.g. "Allowed Access outside UK") and add staff to that group if they need access to services from outside the UK. Make sure you remove that exception when it is no longer required.
+- Setup a Conditional Access Policy which blocks access from the following countries (based on the ['World Cybercrime Index’](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297312) top 10 excluding the UK):
+	1. Russia
+	2. Ukraine
+	3. China
+	4. United States
+	5. Nigeria
+	6. Romania
+	7. North Korea
+	8. Brazil
+	9. India
+	10. Iran
+	- 
+
+
 ## Separate admin accounts and protect them
 > Cyber Essentials **User Access Control** requirements (questions A7.5, 7.6, 7.7, 7.9, 7.16)
 
